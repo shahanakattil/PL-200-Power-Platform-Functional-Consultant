@@ -38,7 +38,11 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
 1.  In the left-hand navigation, expand **Users** and select **Active users**.
 
-1.  Select your user **MOD Administrator** to open the user details panel and select the **Licenses and apps** tab. ![Mod Administrator licenses.](../media/mod-administrator.png)
+    ![](../media/pl-200(1).png)
+
+1.  Select your user **ODL_USER** to open the user details panel and select the **Licenses and apps** tab.
+
+    ![](../media/pl-200(2).png)
 
 1.  Verify an appropriate **Power Apps** license is selected. If not, retry Task 1.1.
 
@@ -53,13 +57,13 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
 1.  Check the boxes next to the other users, select the **ellipses (...**) menu in the action bar, and select **Manage product licenses**.
 
-    ![Select other users.](../media/select-users.png)
+    ![](../media/pl-200(3).png)
 
 1.  Select **Assign more** and select an appropriate **Power Apps** license.
 
     > **Note:** Find out more about Power Apps licensing on [Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/admin/signup-for-powerapps-admin).
 
-    ![Add more licenses.](../media/add-licenses.png)
+    ![](../media/pl-200(4).png)
 
 1.  Select **Save changes**.
 
