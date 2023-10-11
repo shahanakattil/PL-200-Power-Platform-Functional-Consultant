@@ -19,17 +19,19 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
 1.  Verify that you have your **Microsoft 365 credentials** from the Authorized Lab Host available. 
 
-2.  In a new browser tab, navigate to `https://powerapps.microsoft.com` and select **Start free**. 
+2.  In a new browser tab, navigate to `https://powerapps.microsoft.com` and select **Start free**.
 
-3.  Enter the `email address` provided by the Authorized Lab Host. 
+    ![](../media/module0.png)
 
-4.  Select **Sign in**. 
+4.  Enter the `email address` provided by the Authorized Lab Host. 
 
-5.  Enter the `password` provided by the Authorized Lab Host. 
+5.  Select **Sign in**. 
 
-6.  Select **Yes** to stay signed in. 
+6.  Enter the `password` provided by the Authorized Lab Host. 
 
-7.  The Power Apps maker portal will load in a new tab. 
+7.  Select **Yes** to stay signed in. 
+
+8.  The Power Apps maker portal will load in a new tab. 
 
 
 ### Task 1.2 – Verify your Power Apps license has been assigned
