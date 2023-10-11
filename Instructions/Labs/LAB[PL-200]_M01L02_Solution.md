@@ -51,7 +51,7 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 1. Select **Save**.
 
-    ![New publisher.](../media/ss-77.png)
+    ![New publisher.](../media/ss-777.png)
 
 
 ### Task 1.3 – Create a solution
@@ -66,7 +66,7 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 1. Select **Create**.
 
-    ![New solution.](../media/sss-6.png)
+    ![New solution.](../media/sss-666.png)
 
 ## Exercise 2 - Add components to the solution
 
