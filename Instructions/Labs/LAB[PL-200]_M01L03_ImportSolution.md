@@ -42,31 +42,35 @@ In this exercise, you will import the main solution into the **Development** env
 
 1.  Make sure you are in your **Development** environment.
 
-1.  Select **Solutions**.
+     ![](../media/ex1(1).png)
+    
+1.  Select **Solutions** and then select **Import solution**.
 
-1.  Select **Import solution**.
+     ![](../media/ex1(2).png)
 
-1.  Select **Browse** and locate the **FabrikamEnvironmental_1_1_11_3.zip** file and select **Open**.
+1.  Select **Browse** and locate the **FabrikamEnvironmental_1_1_11_3.zip** file and select **Open**. Select **Next**.
 
     > **Note:** This file is located in the Documents\PL-200 folder on your machine.
 
-    ![Solution to import.](../media/solution-to-import.png)
+     ![](../media/ex1(3).png)
+ 
+ 1.  Select **Next** again.
 
-1.  Select **Next**.
-
-1.  Select **Next** again.
+     ![](../media/ex1(4).png)
 
 1.  You need to create connections for the solution.
 
-    ![Connections for import of solution.](../media/connections-for-solution.png)
-
 1.  For the Approvals connection, in the **Select a connection** drop-down, choose **+ New connection**.
 
+     ![](../media/ex1(5).png)
+    
 1.  A new tab will open in the browser. Select **Create**.
 
-    ![Create connection for approvals.](../media/create-approvals-connection.png)
+     ![](../media/ex1(6).png)
 
 1.  Switch back to the tab where you are importing the solution and select **Refresh**.
+
+     ![](../media/ex1(7).png)
 
 1.  For the Microsoft Dataverse connection, in the **Select a connection** drop-down, choose **+ New connection**.
 
@@ -74,26 +78,21 @@ In this exercise, you will import the main solution into the **Development** env
 
 1.  Switch back to the tab where you are importing the solution and select **Refresh**.
 
-1.  Both connections should now be configured.
+1.  Both connections should now be configured. Select **Import**.
 
-    ![Connections for import of solution.](../media/connections-for-solution-added.png)
+     ![](../media/ex1(8).png)
+    
+1. The solution will import in the background. This may take a few minutes.
 
-1.  Select **Import**.
-
-    The solution will import in the background. This may take a few minutes.
-
-    ![Solution imported.](../media/solution-imported.png)
+     ![](../media/ex1(9).png)
 
     > **Alert:** Wait until the solution has finished importing before continuing to the next step.
 
 1.  When the solution has imported successfully, open the **Fabrikam Environmental** solution.
 
-1.  In the solution, select the **Overview** page.
+1.  In the solution, select the **Overview** page. Select **Publish all customizations**. 
 
-    ![Overview.](../media/solution-overview.png)
-
-1.  Select **Publish all customizations**. 
-
+     ![](../media/ex1(10).png)
 
 ### Task 1.2 – Power Virtual Agents solution
 
