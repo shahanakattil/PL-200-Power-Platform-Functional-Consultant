@@ -62,7 +62,7 @@ In this exercise, you will import the main solution into the **Development** env
 
 1.  For the Approvals connection, in the **Select a connection** drop-down, choose **+ New connection**.
 
-     ![](../media/ex1(5).png)
+     ![](../media/exerc1(5).png)
     
 1.  A new tab will open in the browser. Select **Create**.
 
