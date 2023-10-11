@@ -35,7 +35,7 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1.  Leave all other selections as default and select **Next**.
 
-    ![New environment.](../media/pg-1ss-2.png)
+    ![New environment.](../media/pg-1ss-2-1.png)
 
 1.  On the **Add Dataverse** tab, select **Save**.
 
