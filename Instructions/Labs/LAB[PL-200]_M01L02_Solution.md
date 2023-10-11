@@ -33,8 +33,7 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 ### Task 1.2 – Create a publisher
 
-1. Select **Solutions** from the left navigation pane. You should see several solutions including the Default Solution and the Common Data Services Default Solution.
-
+1. Select **Solutions** from the left navigation pane. Click on **New Solution**
     ![List of solutions in Maker portal.](../media/ss-2.png)
 
 1. Select the **Publishers** tab.
@@ -43,13 +42,13 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
    ![List of publishers in Maker portal.](../media/sss-66.png)
 
-1. In the **Display name** text box, enter `Fabrikam`
+1. In the **Display name (1)** text box, enter `Fabrikam`
 
-1. In the **Name** text box, enter `fabrikam`
+1. In the **Name (2)** text box, enter `fabrikam`
 
-1. In the **Prefix** text box, enter `fab`
+1. In the **Prefix (3)** text box, enter `fab`
 
-1. Select **Save**.
+1. Select **Save (4)**.
 
     ![New publisher.](../media/ss-777.png)
 
@@ -60,7 +59,7 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 1. Select **+ New solution**.
 
-1. In the **Display name** text box, enter **[my initials] Practice solution**. The Name text box should be automatically populated.
+1. In the **Display name** text box, enter **[my initials] Practice solution** (Example : PL Practice). The Name text box should be automatically populated.
 
 1. In the **Publisher** drop-down, select **Fabrikam**.
 
