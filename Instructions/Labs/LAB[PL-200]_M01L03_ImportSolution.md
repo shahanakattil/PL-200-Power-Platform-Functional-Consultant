@@ -56,7 +56,7 @@ In this exercise, you will import the main solution into the **Development** env
  
  1.  Select **Next** again.
 
-     ![](../media/ex1(4).png)
+     ![](../media/exer1(4).png)
 
 1.  You need to create connections for the solution.
 
