@@ -77,28 +77,39 @@ In this exercise, you will learn about the canvas app.
 
 1. Close the app.
 
-
 ### Task 1.2 - Review the app in Power Apps Studio
 
-1. Select the **Environmental Work Delivery** app, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
+1. Select the **Environmental Work Delivery (1)** app, select the **Commands** menu (...) **(2)**, and select **Edit (3)** >  **Edit in new tab (4)**.
+
+   ![](../media/1.png)
 
 1. If a Welcome to Power Apps Studio dialog appears, check **Don't show me this again**, and select **Skip**
 
 1. In the **Tree view**, expand **Card1**.
 
-1. Select **Card1LabelValue** and select **Text** in the **Property Selector**.
+   ![](../media/2.png)
+
+1. Select **Card1LabelValue (1)** and select **Text (3)** in the **Properties Selector (2)**.
+
+   ![](../media/3.png)
 
 1. Review the formula. Note that the filter uses the **My Active Projects** view.
 
+   ![](../media/4.png)
+
 1. In the **Tree view**, select and expand **ProjectScreen**.
+
+   ![](../media/5.png)
 
 1. In the **Tree view**, select and expand **ProjectGallery**.
 
-1. Select **ProjectStatusDropDown** and select **Items** in the **Property Selector**.
+1. Select **ProjectStatusDropDown (1)** and select **Items (3)** in the **Properties Selector (2)**.
+
+   ![](../media/6.png)
 
 1. Review the formula. Note the use of **Choices**.
 
-1. Select **ProjectStatusDropDown** and select **OnChange** in the **Property Selector**.
+1. Select **ProjectStatusDropDown** and select **OnChange** in the **Advance Selector**.
 
 1. Review the formula. Note the use of **Patch**.
 
