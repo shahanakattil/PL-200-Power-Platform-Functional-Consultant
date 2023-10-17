@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.3: Import solution'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.3 - Import solution
 
 ## Scenario
@@ -50,7 +44,7 @@ In this exercise, you will import the main solution into the **Development** env
 
 1.  Select **Browse** and locate the **FabrikamEnvironmental_1_1_11_3.zip** file and select **Open**. Select **Next**.
 
-    > **Note:** This file is located in the Documents\PL-200 folder on your machine.
+    > **Note:** This file is located in the C:\Allfiles\Labs folder on your machine.
 
      ![](../media/ex1(3).png)
  
@@ -109,7 +103,7 @@ In this exercise, you will import the main solution into the **Development** env
 1.  Select **Browse**, locate the **FabrikamChatbot_1_1_1_1.zip** file and select **Open**.
 
     >[!NOTE]
-    > This file is located in the Documents\PL-200 folder on your machine.
+    > This file is located in the C:\Allfiles\Labs folder on your machine.
 
 1.  Select **Next**.
 
@@ -127,7 +121,7 @@ In this exercise, you will import data the into the **Development** environment 
 
 1.  In your lab virtual machine, open **File Explorer**.
 
-1.  Navigate to **Documents\PL-200\ConfigurationMigration**.
+1.  Navigate to **C:\Allfiles\Labs\ConfigurationMigration**.
 
 1.  Double-click on **DataMigrationUtility.exe**
    
