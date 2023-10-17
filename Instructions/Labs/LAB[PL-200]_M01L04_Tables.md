@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.4: Tables'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.4 – Tables
 
 ## Scenario
