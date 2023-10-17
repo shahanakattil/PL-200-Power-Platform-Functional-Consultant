@@ -50,17 +50,19 @@ In this exercise, you will create a bulk deletion operation that will delete all
 
 1. Select **Next**.
 
-1. Enter `Delete Old Milestones` for **Name**.
+1. Enter `Delete Old Milestones` (1) for **Name**.
 
 1. Select **At Scheduled Time**.
 
-1. Select today’s date for **Date** and select **9:00 PM** for **Time**.
+1. Select today’s date for **Date** and select **9:00 PM** for **Time**.(2)
 
 1. Check the **Run this job after every** box.
 
-1. Select **30 days**.
+1. Select **30 days**(3).
 
-1. Select **Next**.
+1. Select **Next**(4).
+
+    ![](../media/Mod-02;lab-06(4).png)
 
 1. Select **Submit**.
 
