@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.6: Relationships'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.6 – Relationships
 
 ## Scenario
@@ -42,7 +36,7 @@ In this exercise, you will be modifying the cascade relationships for the projec
 
 1. Select **Done**.
 
-    ![Referential Restrict relationship.](../media/referential-restrict-relationship.png)
+    ![Referential Restrict relationship.](../media/pg-6-1-1.png)
 
 
 ### Task 1.2 – Project-Milestone relationship
@@ -51,19 +45,19 @@ In this exercise, you will be modifying the cascade relationships for the projec
 
 1. In the **One-to-many** pane that appears on the right-hand side of the screen, expand **Advanced options**.
 
-1. Change the **Type of behavior** drop-down to **Custom**.
+1. Change the **Type of behavior** drop-down to **Custom (1)**.
 
-1. Change the **Delete** drop-down to **Restrict**.
+1. Change the **Delete** drop-down to **Restrict (2)**.
 
-1. Change the **Assign** drop-down to **Cascade Active**.
+1. Change the **Assign** drop-down to **Cascade Active (3)**.
 
-1. Change the **Share** drop-down to **Cascade User-Owned**.
+1. Change the **Share** drop-down to **Cascade User-Owned (4)**.
 
-1. Change the **Unshare** drop-down to **Cascade User-Owned**.
+1. Change the **Unshare** drop-down to **Cascade User-Owned (5)**.
 
 1. Select **Done**.
 
-    ![Cascade relationship.](../media/custom-cascade-relationship.png)
+    ![Cascade relationship.](../media/pg-6-2-2-2.png)
 
 
 ## Exercise 2 – Add new relationship
@@ -104,7 +98,7 @@ In this exercise, you will create a new relationship between the Resource and Pr
 
 1. Select **Done**.
 
-    ![Referential Restrict relationship.](../media/add-relationship.png)
+    ![Referential Restrict relationship.](../media/pg-6-3-3-3.png)
 
 1. In the **Objects** pane on the left, select **Columns** for the **Project** table.
 
