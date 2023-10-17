@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 2.7: Duplicate detection'
-    module: 'Module 2: Manage Microsoft Dataverse'
----
-
 # Practice Lab 2.7 - Duplicate detection
 
 ## Scenario
@@ -29,6 +23,8 @@ In this exercise, you will create a new duplicate detection rule that will mark 
 1. Expand **Data management**.
 
 1. Select **Duplicate detection rules**.
+
+    ![](../media/mod-02;lab-07(1).png)
 
 1. Select **New**.
 
