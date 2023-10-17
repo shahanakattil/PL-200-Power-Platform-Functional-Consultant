@@ -14,7 +14,7 @@ In this exercise, you will be modifying the cascade relationships for the projec
 
 ### Task 1.1 – Region-Project relationship
 
-1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com `
 
 1. Make sure you are in your **Development** environment.
 
@@ -149,7 +149,7 @@ In this exercise, you will create a new hierarchical relationship on the region 
 
 1. Select **Done**.
 
-    ![Hierarchical relationship.](../media/add-hierarchical-relationship.png)
+    ![Hierarchical relationship.](../media/pg-6-4-4.png)
 
 
 ## Exercise 4 – Project Outcome relationships
@@ -299,7 +299,7 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. In the solution, select the **Overview** page.
 
-    ![Overview.](../media/solution-overview.png)
+    ![Overview.](../media/15.png)
 
 1. Select **Publish all customizations**.
 
@@ -318,7 +318,7 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. Select the **Save** icon.
 
-    ![Add connection role.](../media/add-connection-role.png)
+    ![Add connection role.](../media/pg-6-7-7.png)
 
 1. Under **Matching connection roles**, select **New**.
 
@@ -349,6 +349,8 @@ In this exercise, you will enable connections for the resource and milestone tab
 1. Under **Matching connection roles**, select **Add Existing**.
 
 1. Add **Contributed to** to the **selected records** by selecting the row using the **Select** button.
+
+   ![Add connection role.](../media/20-1.png)
 
 1. Select **Add**.
 
@@ -409,7 +411,7 @@ In this exercise, you will use relationships to create calculated and rollup fie
 
 1. Select the blue check mark.
 
-    ![Add calculated column using a relationship.](../media/calculated-column-using-relationship.png)
+    ![Add calculated column using a relationship.](../media/pg-6-8-8.png)
 
 1. Select **SAVE AND CLOSE**.
 
@@ -456,12 +458,15 @@ In this exercise, you will use relationships to create calculated and rollup fie
 
 1. Select **SAVE AND CLOSE**.
 
-    ![Add rollup column.](../media/add-rollup-column.png)
+    ![Add rollup column.](../media/pg-6-8-8.png)
 
 
 ### Task 6.3 – Publish changes
 
 1. In the solution, select the **Overview** page.
+   
+   ![Overview.](../media/15.png)
+
 
 1. Select **Publish all customizations**.
 
@@ -515,6 +520,9 @@ In this exercise, you will export the solution from the Development environment 
 1. Select **Export Solution**.
 
 1. Select **Next**.
+   
+   ![Add rollup column.](../media/26-1.png)
+   
 
 1. The version number should have been incremented to **1.1.11.5**.
 
