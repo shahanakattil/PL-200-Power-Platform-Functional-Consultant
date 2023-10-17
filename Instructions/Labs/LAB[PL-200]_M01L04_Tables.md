@@ -139,7 +139,7 @@ In later labs you will be adding columns and relationships to this custom table.
 
 1.  Select the **+ New** drop-down and select **Table** then **Table**.
 
-      ![Project table properties.](../media/11.png)
+      ![Project table properties.](../media/11-1.png)
 
 1.  Enter `Project Outcome` for **Display Name**. The plural name will be automatically populated.
 
