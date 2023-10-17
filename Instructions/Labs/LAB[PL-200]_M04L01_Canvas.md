@@ -105,17 +105,21 @@ In this exercise, you will learn about the canvas app.
 
 1. Select **ProjectStatusDropDown (1)** and select **Items (3)** in the **Properties Selector (2)**.
 
-   ![](../media/6.png)
-
 1. Review the formula. Note the use of **Choices**.
 
-1. Select **ProjectStatusDropDown** and select **OnChange** in the **Advance Selector**.
+    ![](../media/6.png)
 
-1. Review the formula. Note the use of **Patch**.
+1. Select **ProjectStatusDropDown (1)** and select **OnChange (3)** in the **Advance Selector (2)**.
+
+1. Review the formula. Note the use of **Patch (4)**.
+
+      ![](../media/7.png)
 
 1. Select **ProjectTitleTextInput** and select **OnChange** in the **Property Selector**.
 
 1. Review the formula. Note the use of **Patch**.
+
+    ![](../media/8.png)
 
 1. In the **Tree view**, select and expand **MilestoneScreen**.
 
@@ -135,19 +139,21 @@ In this exercise, you will learn about the canvas app.
 
 1. Review the formula. Note the use of **SubmitForm**.
 
-1. Select **HomeScreen**.
+   ![](../media/9.png)
 
-1. In the **Tree view**, select **App**.
+1. In the **Tree view**, select **App (1)** then select **OnStart** in the **Property Selector (2)** and Review the **formulas (3)**.
 
-1. Select **OnStart** in the **Property Selector**.
+   ![](../media/10.png)
 
-1. Review the formulas.
+1. Select the ellipses menu (...) to the right of **App (1)** and select **Run OnStart (2)**.
 
-1. Select the ellipses menu (...) to the right of **App** and select **Run OnStart**.
+    ![](../media/11.png)
 
 1. In the left navigation, select **(𝑥) Variables**.
 
 1. Expand **Global variables** and review the variables for column widths and heights. The controls on screens use these variables for their X, Y, Height, and Width.
+
+   ![](../media/12.png)
 
 1. Review the Color variables. The controls on screens use these variables for color properties.
 
@@ -157,6 +163,8 @@ In this exercise, you will learn about the canvas app.
 
 1. Select **X** in the **Property Selector** and note the use of a variable.
 
+    ![](../media/13.png)
+
 1. Select **Y** in the **Property Selector** and note the use of variables in the formula.
 
 1. In the left navigation, select **(𝑥) Variables**.
@@ -164,6 +172,8 @@ In this exercise, you will learn about the canvas app.
 1. Expand **Collections**.
 
 1. Review the data in the collections by selecting the ellipisis menu (...) on each and selecting **View table**. Select **Cancel** to close the pop-up.
+
+   ![](../media/14.png)
 
 1. **Close** the tab and select **Leave** to discard any changes. Select **Done**.
 
@@ -196,11 +206,15 @@ In this task, you will perform the following changes to the app:
 
 1. In the OnStart, change **Set(BarrierSize,20)** to `Set(BarrierSize,10)`
 
+     ![](../media/15.png)
+
     **Note:** You can select the caret to the right of the formula bar to expand it.
 
 1. Select the ellipses (...) to the right of **App** and select **Run OnStart**. Verify that the layout adjusts and the tiles become bigger.
 
 1. In the OnStart, change **Set(LeftHandWidth,App.Width/10)** to `Set(LeftHandWidth,App.Width/12)`
+
+   ![](../media/16.png)
 
 1. Select the ellipses (...) to the right on App and select **Run OnStart**. Note that the layout adjusts.
 
@@ -223,6 +237,8 @@ In this task, you will perform the following changes to the app:
 1. In the OnStart, change **Set(FabrikamBackColor,RGBA(0,0,0,1))** to `Set(FabrikamBackColor,Color.Azure)`
 
 1. In the OnStart, change **Set(FabrikamFrontColor,RGBA(255,255,255,1))** to `Set(FabrikamFrontColor,Color.Black)`
+
+   ![](../media/17.png)
 
 1. Select the ellipses (...) to the right of App and select **Run OnStart**. Note that the colors change.
 
@@ -249,7 +265,6 @@ In this task, you will perform the following changes to the app:
 1. Repeat the steps to change the **BorderColor** and **IconBackground** color to `FabrikamColor` for **EstimatedCompletionDate**.
 
 1. Select **Save**.
-
 
 ### Task 2.3 - Background
 
@@ -300,7 +315,9 @@ In this task, you will perform the following changes to the button:
 
 1. In the **Tree view**, select and expand **OutcomeScreen**.
 
-1. Select the ellipses (...) next to **Button2** and select **Rename**.
+1. Select the ellipses (...) next to **Button2 (1)** and select **Rename (2)**.
+
+   ![](../media/18.png)
 
 1. Enter `SaveBtn`
 
@@ -316,6 +333,7 @@ In this task, you will perform the following changes to the button:
 
 1. Select **Publish this version**.
 
+    ![](../media/19.png)
 
 ## Exercise 3 – Logic
 
@@ -424,7 +442,6 @@ In this task, you will perform the following changes to the screen:
 1. **Close** the canvas app designer tab.
 
 1. Select **Done**.
-
 
 ## Exercise 4 – Power Automate
 
