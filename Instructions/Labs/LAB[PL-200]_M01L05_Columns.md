@@ -33,7 +33,7 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Change the **Maximum character count** to **10000**.
 
-   ![Add calculated column.](../media/3.png)
+   ![Add calculated column.](../media/3-1-1.png)
 
 1. Select **Save**.
 
@@ -95,7 +95,7 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Check the **Project Code** Column.
 
-   ![Add calculated column.](../media/14.png)
+   ![Add calculated column.](../media/14-1.png)
 
 
 1. Select **Save**.
@@ -375,7 +375,7 @@ In this exercise, you will be creating columns on the Project Outcome custom tab
 
 1. In the solution select the **Overview** page.
 
-    ![Overview.](../media/15.png)
+    ![Overview.](../media/15-1.png)
 
 1. Select **Publish all customizations**.
 
