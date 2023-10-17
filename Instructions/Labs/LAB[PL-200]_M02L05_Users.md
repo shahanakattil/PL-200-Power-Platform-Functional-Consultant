@@ -95,7 +95,7 @@ You will add the users and team to column security profiles.
 
 1. Select the root business unit(2).
 
-1. Enter `ODL_user(3)` in **Administrator** and select **MOD Administrator**.
+1. Enter `ODL_user` in **Administrator** and select **ODL_User <inject key="DeploymentID"></inject>**.
 
 1. Select **Owner**(4) in the **Team type** drop-down.
 
