@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 2.6: Bulk delete data'
-    module: 'Module 2: Manage Microsoft Dataverse'
----
-
 # Practice Lab 2.6 - Bulk delete data
 
 ## Scenario
@@ -30,9 +24,13 @@ In this exercise, you will create a bulk deletion operation that will delete all
 
 1. Select **Bulk deletion**.
 
+    ![](../media/mod-02;lab-06(1).png)
+
 1. Select **New**.
 
 1. Select **Next**.
+
+    ![](../media/mod-02;lab-06(2).png)
 
 1. Select **Milestones** from the **Look for** drop-down.
 
@@ -47,6 +45,8 @@ In this exercise, you will create a bulk deletion operation that will delete all
 1. Select **Equals**.
 
 1. Select the ellipses (...), select **Completed** and **Cancelled**, and select **OK**.
+
+    ![](../media/mod-02;lab-06(3).png)
 
 1. Select **Next**.
 
@@ -65,6 +65,8 @@ In this exercise, you will create a bulk deletion operation that will delete all
 1. Select **Submit**.
 
 1. Change the view to **Recurring Bulk Deletion System Jobs**.
+
+    ![](../media/mod-02;lab-06(5).png)
 
 1. Wait for the job to be created. This can take few minutes. **Refresh** the view as needed.
 
