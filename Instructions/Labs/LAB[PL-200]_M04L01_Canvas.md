@@ -276,6 +276,8 @@ In this task, you will perform the following changes to a screen:
 
 1. In the **Properties** pane on the right side, select **Background image** > **+ Add an image file**.
 
+     ![](../media/37.png)
+
 1. Locate and select the **Texture.jpg** file and select **Open**.
 
     > This file is located in the Documents\PL-200 folder on your machine.
@@ -321,7 +323,7 @@ In this task, you will perform the following changes to the button:
 
 1. Enter `SaveBtn`
 
-1. With the button still selected, select **DisplayMode** in the **Property Selector**.
+1. With the button still selected, select **DisplayMode** in the **Advance Selector**.
 
 1. Enter the following formula:
 
@@ -369,13 +371,17 @@ In this task, you will perform the following changes to the screen:
 
 1. Select **Add**.
 
-    [](../media/20.png)
+   ![](../media/20.png)
 
-1. Select the **More actions** menu (...) next to **Status Reason** and select **Remove**.
+1. Select the **More actions** menu (...) next to **Status Reason** and select **Delete**.
+
+   ![](../media/21.png)
 
 1. Select and expand **OutcomeGallery**.
 
 1. Select **Subtitle5_1** and select **Text** in the **Property Selector**.
+
+    ![](../media/22.png)
 
 1. In the formula bar, replace **ThisItem.'Status Reason'** with `ThisItem.'Outcome Status'`
 
@@ -395,7 +401,7 @@ In this task, you will perform the following changes to the screen:
 
 1. In the formula bar, replace **NewForm(OutcomeForm)** with `Select(Parent)`
 
-1. Select **OutcomeForm** and select **Item** in the **Property Selector**.
+1. Select **OutcomeForm** and select **Item** in the **Advance Selector**.
 
 1. Enter the following formula:
 
@@ -403,6 +409,7 @@ In this task, you will perform the following changes to the screen:
 
 1. Select **Save**.
 
+   ![](../media/23.png)
 
 ### Task 3.3 - Milestone form
 
@@ -431,9 +438,11 @@ In this task, you will perform the following changes to the screen:
 
 1. Select and expand **ProjectGallery**.
 
-1. Select **ProjectTypeComboBox** and select **DefaultSelectedItems** in the **Property Selector**.
+1. Select **ProjectTypeComboBox** and select **DefaultSelectedItems** in the **Advance Selector**.
 
 1. In the formula bar, enter `ThisItem.'Project Type'`
+
+   ![](../media/25.png)
 
 1. Select **Save**.
 
@@ -470,13 +479,19 @@ In this task, you will perform the following changes to the screen:
 
     > NOTE: If a Welcome to Power Automate dialog appears, select **Get started**.
 
+    ![](../media/26.png)
+
 1. Enter `Reset milestone status` for **Flow name**.
 
 1. Select **PowerApps** for **Chose how to trigger this flow**.
 
 1. Select **Create**.
 
+    ![](../media/27.png)
+
 1. Select **+ New step**.
+
+   ![](../media/28.png)
 
 1. Select the **Microsoft Dataverse** connector.
 
@@ -513,6 +528,8 @@ In this task, you will perform the following changes to the screen:
 1. In the left navigation, select **Power Automate**.
 
 1. Select **+ Add flow**.
+
+    ![](../media/29.png)
 
 1. Select **Reset milestone status**. The flow will be added to the app.
 
@@ -555,9 +572,13 @@ In this task, you will perform the following changes to the screen:
 
 1. Enter `Alex` in **Enter a name, email address, or Everyone** and select **Alex Wilber**.
 
+    ![](../media/30.png)
+
 1. Select **Share**.
 
 1. Enter `Patti` in **Enter a name, email address, or Everyone** and select **Patti Fernandez**.
+
+    ![](../media/31.png)
 
 1. Check the **Co-owner** box.
 
@@ -582,6 +603,8 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Export solution**.
 
+   ![](../media/32.png)
+
 1. Select **Next**.
 
 1. The version number should have been incremented to **1.1.11.10**.
@@ -590,7 +613,11 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Export**.
 
+   ![](../media/33.png)
+
 1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
+
+   ![](../media/34.png)
 
 
 ### Task 5.2 – Export unmanaged solution
@@ -609,7 +636,6 @@ In this exercise, you will export the solution from the Development environment 
 
 1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
 
-
 ### Task 5.3 – Import managed solution
 
 1. Switch to the **Live** environment using the **Environment Selector** in the upper right corner of the Maker portal.
@@ -622,5 +648,8 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Next**.
 
+   ![](../media/35.png)
+
 1. Select **Import**. The solution will import in the background.
 
+   ![](../media/36.png)
