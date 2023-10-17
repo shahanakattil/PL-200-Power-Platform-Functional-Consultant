@@ -77,34 +77,49 @@ In this exercise, you will learn about the canvas app.
 
 1. Close the app.
 
-
 ### Task 1.2 - Review the app in Power Apps Studio
 
-1. Select the **Environmental Work Delivery** app, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
+1. Select the **Environmental Work Delivery (1)** app, select the **Commands** menu (...) **(2)**, and select **Edit (3)** >  **Edit in new tab (4)**.
+
+   ![](../media/1.png)
 
 1. If a Welcome to Power Apps Studio dialog appears, check **Don't show me this again**, and select **Skip**
 
 1. In the **Tree view**, expand **Card1**.
 
-1. Select **Card1LabelValue** and select **Text** in the **Property Selector**.
+   ![](../media/2.png)
+
+1. Select **Card1LabelValue (1)** and select **Text (3)** in the **Properties Selector (2)**.
+
+   ![](../media/3.png)
 
 1. Review the formula. Note that the filter uses the **My Active Projects** view.
 
+   ![](../media/4.png)
+
 1. In the **Tree view**, select and expand **ProjectScreen**.
+
+   ![](../media/5.png)
 
 1. In the **Tree view**, select and expand **ProjectGallery**.
 
-1. Select **ProjectStatusDropDown** and select **Items** in the **Property Selector**.
+1. Select **ProjectStatusDropDown (1)** and select **Items (3)** in the **Properties Selector (2)**.
 
 1. Review the formula. Note the use of **Choices**.
 
-1. Select **ProjectStatusDropDown** and select **OnChange** in the **Property Selector**.
+    ![](../media/6.png)
 
-1. Review the formula. Note the use of **Patch**.
+1. Select **ProjectStatusDropDown (1)** and select **OnChange (3)** in the **Advance Selector (2)**.
+
+1. Review the formula. Note the use of **Patch (4)**.
+
+      ![](../media/7.png)
 
 1. Select **ProjectTitleTextInput** and select **OnChange** in the **Property Selector**.
 
 1. Review the formula. Note the use of **Patch**.
+
+    ![](../media/8.png)
 
 1. In the **Tree view**, select and expand **MilestoneScreen**.
 
@@ -124,19 +139,21 @@ In this exercise, you will learn about the canvas app.
 
 1. Review the formula. Note the use of **SubmitForm**.
 
-1. Select **HomeScreen**.
+   ![](../media/9.png)
 
-1. In the **Tree view**, select **App**.
+1. In the **Tree view**, select **App (1)** then select **OnStart** in the **Property Selector (2)** and Review the **formulas (3)**.
 
-1. Select **OnStart** in the **Property Selector**.
+   ![](../media/10.png)
 
-1. Review the formulas.
+1. Select the ellipses menu (...) to the right of **App (1)** and select **Run OnStart (2)**.
 
-1. Select the ellipses menu (...) to the right of **App** and select **Run OnStart**.
+    ![](../media/11.png)
 
 1. In the left navigation, select **(𝑥) Variables**.
 
 1. Expand **Global variables** and review the variables for column widths and heights. The controls on screens use these variables for their X, Y, Height, and Width.
+
+   ![](../media/12.png)
 
 1. Review the Color variables. The controls on screens use these variables for color properties.
 
@@ -146,6 +163,8 @@ In this exercise, you will learn about the canvas app.
 
 1. Select **X** in the **Property Selector** and note the use of a variable.
 
+    ![](../media/13.png)
+
 1. Select **Y** in the **Property Selector** and note the use of variables in the formula.
 
 1. In the left navigation, select **(𝑥) Variables**.
@@ -153,6 +172,8 @@ In this exercise, you will learn about the canvas app.
 1. Expand **Collections**.
 
 1. Review the data in the collections by selecting the ellipisis menu (...) on each and selecting **View table**. Select **Cancel** to close the pop-up.
+
+   ![](../media/14.png)
 
 1. **Close** the tab and select **Leave** to discard any changes. Select **Done**.
 
@@ -185,11 +206,15 @@ In this task, you will perform the following changes to the app:
 
 1. In the OnStart, change **Set(BarrierSize,20)** to `Set(BarrierSize,10)`
 
+     ![](../media/15.png)
+
     **Note:** You can select the caret to the right of the formula bar to expand it.
 
 1. Select the ellipses (...) to the right of **App** and select **Run OnStart**. Verify that the layout adjusts and the tiles become bigger.
 
 1. In the OnStart, change **Set(LeftHandWidth,App.Width/10)** to `Set(LeftHandWidth,App.Width/12)`
+
+   ![](../media/16.png)
 
 1. Select the ellipses (...) to the right on App and select **Run OnStart**. Note that the layout adjusts.
 
@@ -212,6 +237,8 @@ In this task, you will perform the following changes to the app:
 1. In the OnStart, change **Set(FabrikamBackColor,RGBA(0,0,0,1))** to `Set(FabrikamBackColor,Color.Azure)`
 
 1. In the OnStart, change **Set(FabrikamFrontColor,RGBA(255,255,255,1))** to `Set(FabrikamFrontColor,Color.Black)`
+
+   ![](../media/17.png)
 
 1. Select the ellipses (...) to the right of App and select **Run OnStart**. Note that the colors change.
 
@@ -239,7 +266,6 @@ In this task, you will perform the following changes to the app:
 
 1. Select **Save**.
 
-
 ### Task 2.3 - Background
 
 In this task, you will perform the following changes to a screen:
@@ -249,6 +275,8 @@ In this task, you will perform the following changes to a screen:
 1. In the **Tree view**, select **ProjectScreen**.
 
 1. In the **Properties** pane on the right side, select **Background image** > **+ Add an image file**.
+
+     ![](../media/37.png)
 
 1. Locate and select the **Texture.jpg** file and select **Open**.
 
@@ -289,11 +317,13 @@ In this task, you will perform the following changes to the button:
 
 1. In the **Tree view**, select and expand **OutcomeScreen**.
 
-1. Select the ellipses (...) next to **Button2** and select **Rename**.
+1. Select the ellipses (...) next to **Button2 (1)** and select **Rename (2)**.
+
+   ![](../media/18.png)
 
 1. Enter `SaveBtn`
 
-1. With the button still selected, select **DisplayMode** in the **Property Selector**.
+1. With the button still selected, select **DisplayMode** in the **Advance Selector**.
 
 1. Enter the following formula:
 
@@ -305,6 +335,7 @@ In this task, you will perform the following changes to the button:
 
 1. Select **Publish this version**.
 
+    ![](../media/19.png)
 
 ## Exercise 3 – Logic
 
@@ -340,11 +371,17 @@ In this task, you will perform the following changes to the screen:
 
 1. Select **Add**.
 
-1. Select the **More actions** menu (...) next to **Status Reason** and select **Remove**.
+   ![](../media/20.png)
+
+1. Select the **More actions** menu (...) next to **Status Reason** and select **Delete**.
+
+   ![](../media/21.png)
 
 1. Select and expand **OutcomeGallery**.
 
 1. Select **Subtitle5_1** and select **Text** in the **Property Selector**.
+
+    ![](../media/22.png)
 
 1. In the formula bar, replace **ThisItem.'Status Reason'** with `ThisItem.'Outcome Status'`
 
@@ -364,7 +401,7 @@ In this task, you will perform the following changes to the screen:
 
 1. In the formula bar, replace **NewForm(OutcomeForm)** with `Select(Parent)`
 
-1. Select **OutcomeForm** and select **Item** in the **Property Selector**.
+1. Select **OutcomeForm** and select **Item** in the **Advance Selector**.
 
 1. Enter the following formula:
 
@@ -372,6 +409,7 @@ In this task, you will perform the following changes to the screen:
 
 1. Select **Save**.
 
+   ![](../media/23.png)
 
 ### Task 3.3 - Milestone form
 
@@ -400,9 +438,11 @@ In this task, you will perform the following changes to the screen:
 
 1. Select and expand **ProjectGallery**.
 
-1. Select **ProjectTypeComboBox** and select **DefaultSelectedItems** in the **Property Selector**.
+1. Select **ProjectTypeComboBox** and select **DefaultSelectedItems** in the **Advance Selector**.
 
 1. In the formula bar, enter `ThisItem.'Project Type'`
+
+   ![](../media/25.png)
 
 1. Select **Save**.
 
@@ -413,7 +453,6 @@ In this task, you will perform the following changes to the screen:
 1. **Close** the canvas app designer tab.
 
 1. Select **Done**.
-
 
 ## Exercise 4 – Power Automate
 
@@ -440,13 +479,19 @@ In this task, you will perform the following changes to the screen:
 
     > NOTE: If a Welcome to Power Automate dialog appears, select **Get started**.
 
+    ![](../media/26.png)
+
 1. Enter `Reset milestone status` for **Flow name**.
 
 1. Select **PowerApps** for **Chose how to trigger this flow**.
 
 1. Select **Create**.
 
+    ![](../media/27.png)
+
 1. Select **+ New step**.
+
+   ![](../media/28.png)
 
 1. Select the **Microsoft Dataverse** connector.
 
@@ -483,6 +528,8 @@ In this task, you will perform the following changes to the screen:
 1. In the left navigation, select **Power Automate**.
 
 1. Select **+ Add flow**.
+
+    ![](../media/29.png)
 
 1. Select **Reset milestone status**. The flow will be added to the app.
 
@@ -525,9 +572,13 @@ In this task, you will perform the following changes to the screen:
 
 1. Enter `Alex` in **Enter a name, email address, or Everyone** and select **Alex Wilber**.
 
+    ![](../media/30.png)
+
 1. Select **Share**.
 
 1. Enter `Patti` in **Enter a name, email address, or Everyone** and select **Patti Fernandez**.
+
+    ![](../media/31.png)
 
 1. Check the **Co-owner** box.
 
@@ -552,6 +603,8 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Export solution**.
 
+   ![](../media/32.png)
+
 1. Select **Next**.
 
 1. The version number should have been incremented to **1.1.11.10**.
@@ -560,7 +613,11 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Export**.
 
+   ![](../media/33.png)
+
 1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
+
+   ![](../media/34.png)
 
 
 ### Task 5.2 – Export unmanaged solution
@@ -579,7 +636,6 @@ In this exercise, you will export the solution from the Development environment 
 
 1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
 
-
 ### Task 5.3 – Import managed solution
 
 1. Switch to the **Live** environment using the **Environment Selector** in the upper right corner of the Maker portal.
@@ -592,5 +648,8 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Next**.
 
+   ![](../media/35.png)
+
 1. Select **Import**. The solution will import in the background.
 
+   ![](../media/36.png)
