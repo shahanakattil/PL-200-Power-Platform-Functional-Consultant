@@ -299,7 +299,7 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. In the solution, select the **Overview** page.
 
-    ![Overview.](../media/15.png)
+    ![Overview.](../media/15-1.png)
 
 1. Select **Publish all customizations**.
 
@@ -465,7 +465,7 @@ In this exercise, you will use relationships to create calculated and rollup fie
 
 1. In the solution, select the **Overview** page.
    
-   ![Overview.](../media/15.png)
+   ![Overview.](../media/15-1.png)
 
 
 1. Select **Publish all customizations**.
