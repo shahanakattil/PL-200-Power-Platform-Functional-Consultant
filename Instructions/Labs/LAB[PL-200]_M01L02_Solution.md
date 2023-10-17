@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.2: Publisher and Solution'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.2 - Publisher and Solution
 
 ## Scenario
