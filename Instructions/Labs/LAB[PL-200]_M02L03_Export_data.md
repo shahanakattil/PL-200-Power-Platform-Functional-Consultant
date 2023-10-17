@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 2.3: Export data'
-    module: 'Module 2: Manage Microsoft Dataverse'
----
-
 # Practice Lab 2.3 - Export data
 
 ## Scenario
@@ -24,7 +18,11 @@ In this exercise, you will export data using the maker portal.
 
 1. Locate and open the **Project** table.
 
+    ![](../media/mod-02;lab-03(1).png)
+
 1. Select **Export** and select **Export data**.
+
+    ![](../media/mod-02;lab-03(2).png)
 
 1. Wait for the data to be exported.
 
@@ -59,9 +57,13 @@ In this exercise, you will export data from a model-drivel app using the maker p
 
 1. For the **Environmental Management** app, select the ellipses (...) and select **Play**. Sign in with your Microsoft 365 credentials if prompted.
 
+    ![](../media/mod-02;lab-03(3).png)
+
 1. In the left-hand navigation of the app, select **Projects**.
 
-1. In the action bar, select the caret next to **Export to Excel** and then select **Static Worksheet**. 
+1. In the action bar, select the caret next to **Export to Excel** and then select **Static Worksheet**.
+
+    ![](../media/mod-02;lab-03(4).png)
 
 1. Open the folder the data was downloaded to.
 
