@@ -51,13 +51,13 @@ You need to remove privileges for importing and exporting of data, deleting acco
 
 1. Select the **Write** privilege (third circle from the left) three times to change the access level circle to **Business Unit**.
 
-    ![Access levels for Milestone table.](../media/milestone-privileges.png)
+    ![Access levels for Milestone table.](../media/milestone-privileges1.png)
 
 1. Locate the **Outcome** table privileges.
 
 1. Select the **Write** privilege three times to change the access level circle to **Business Unit**.
 
-    ![Access levels for Outcome table.](../media/outcome-privileges.png)
+    ![Access levels for Outcome table.](../media/outcome-privileges2.png)
 
 1. Select **Save**.
 
@@ -70,7 +70,7 @@ You need to remove privileges for importing and exporting of data, deleting acco
 
 1. Select the **Delete** privilege (fourth circle from the left) once to change the access level circle to **None Selected**.
 
-    ![Access levels for Project Outcome table.](../media/project-outcome-privileges.png)
+    ![Access levels for Project Outcome table.](../media/project-outcome-privileges3.png)
 
 1. Select **Save**.
 
