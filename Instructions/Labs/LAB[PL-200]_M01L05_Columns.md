@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.5: Columns'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.5 – Columns
 
 ## Scenario
@@ -101,7 +95,11 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Check the **Project Code** Column.
 
+   ![Add calculated column.](../media/14.png)
+
+
 1. Select **Save**.
+   
 
 
 ### Task 1.4 – Add a calculated column
@@ -153,10 +151,11 @@ In this exercise, you will be changing properties on existing columns on the Pro
     > NOTE: You can use intellisense to type and select the elements in the formula.
 
 1. Select the blue check mark to save changes.
+   
+    ![Add Choice column.](../media/lab-5-02.png)
 
 1. Select **SAVE AND CLOSE**.
 
-    ![Calculated column.](../media/3.png)
 
 
 ## Exercise 2 – Modify and add columns on the Project Funding table
