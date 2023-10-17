@@ -36,7 +36,7 @@ In this exercise, you will be examining the tables in the Fabrikam Environmental
 
 1.  Select the **Project** table.
 
-    ![Project table.](../media/project_table.png)
+    ![Project table.](../media/lab-4-01.png)
 
 1.  Under **Schema**, select **Columns**. You will see columns including Project Title, Project Type, Estimated End, and Program.
 
@@ -74,19 +74,19 @@ In this exercise, you will be updating the properties on the Project table to al
 
 1.  Select **Properties**.
 
-    ![Project table properties.](../media/table-properties.png)
+    ![Project table properties.](../media/lab-4-02.png)
 
     > **Note:** If Properties is not shown, maximize your browser and/or zoom in until Properties appears.
 
 1.  In the **Edit table** pane that appears on the right-hand side of the screen, check the **Enable attachments (including notes and files)** box.
 
-    ![Enable attachments.](../media/enable-attachments.png)
+    ![Enable attachments.](../media/lab-2-03.png)
 
 1.  Expand **Advanced options** and scroll down.
 
 1.  Check the **Creating a new activity** box.
 
-    ![Advanced table properties.](../media/advanced-table-properties.png)
+    ![Advanced table properties.](../media/lab-4-03.png)
 
 1.  Select **Save**.
 
@@ -145,6 +145,8 @@ In later labs you will be adding columns and relationships to this custom table.
 
 1.  Select the **+ New** drop-down and select **Table** then **Table**.
 
+      ![Project table properties.](../media/11.png)
+
 1.  Enter `Project Outcome` for **Display Name**. The plural name will be automatically populated.
 
 1.  Enter `Environmental outcomes for a project` for **Description**.
@@ -174,7 +176,7 @@ In later labs you will be adding columns and relationships to this custom table.
 
 1.  In the solution select the **Overview** page.
 
-    ![Overview.](../media/solution-overview.png)
+    ![Overview.](../media/15.png)
 
 1.  Select **Publish all customizations**.
 
