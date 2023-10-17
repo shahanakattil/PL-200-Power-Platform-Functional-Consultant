@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 0: Validate lab environment'
-    module: 'Module 0: Course Introduction'
----
-
 # Practice Lab 0 - Validate lab environment
 
 > **IMPORTANT:** This lab provides you with a Microsoft 365 tenant and licenses for the Power Platform applications you will be using in this course. You will only be provided with one tenant for the practice labs in this course. The settings and actions you take within this tenant do not roll-back or reset, whereas the virtual machine you are provided with does reset each time you close the lab session. Please be aware that Microsoft 365 and Power Platform are evolving all the time. The instructions in this document may be different from what you experience in your actual tenant. It is also possible to experience a delay of several minutes before the virtual machine has network connectivity to begin the labs.
@@ -44,7 +38,7 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
 1.  Select your user **ODL_USER** to open the user details panel and select the **Licenses and apps** tab.
 
-    ![](../media/pl-200(2).png)
+    ![](../media/00png.png)
 
 1.  Verify an appropriate **Power Apps** license is selected. If not, retry Task 1.1.
 
@@ -65,7 +59,7 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
     > **Note:** Find out more about Power Apps licensing on [Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/admin/signup-for-powerapps-admin).
 
-    ![](../media/pl-200(4).png)
+    ![](../media/mod00-lic.png)
 
 1.  Select **Save changes**.
 
