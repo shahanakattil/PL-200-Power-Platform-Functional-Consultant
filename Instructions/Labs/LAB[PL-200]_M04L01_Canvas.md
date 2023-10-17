@@ -369,6 +369,8 @@ In this task, you will perform the following changes to the screen:
 
 1. Select **Add**.
 
+    [](../media/20.png)
+
 1. Select the **More actions** menu (...) next to **Status Reason** and select **Remove**.
 
 1. Select and expand **OutcomeGallery**.
