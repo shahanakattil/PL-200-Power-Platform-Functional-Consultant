@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.2: Publisher and Solution'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.2 - Publisher and Solution
 
 ## Scenario
@@ -24,7 +18,7 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 1. Select your **Development** environment from the list.
 
-    ![Select Development environment in the Power Apps maker portal.](../media/select-dev-environment.png)
+    ![Select Development environment in the Power Apps maker portal.](../media/ss-1.0.0.0.png)
 
 1. Select **Apps** from the left navigation pane. You should see some default system apps listed, Solution Health Hub etc. You may also see Fabrikam Milestones and Portal Management apps being provisioned.
 
@@ -33,25 +27,24 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 ### Task 1.2 – Create a publisher
 
-1. Select **Solutions** from the left navigation pane. You should see several solutions including the Default Solution and the Common Data Services Default Solution.
-
-    ![List of solutions in Maker portal.](../media/solutions-list.png)
+1. Select **Solutions** from the left navigation pane. Click on **New Solution**
+    ![List of solutions in Maker portal.](../media/ss-2.png)
 
 1. Select the **Publishers** tab.
 
-    ![List of publishers in Maker portal.](../media/publishers-list.png)
-
 1. Select **+ New publisher**.
 
-1. In the **Display name** text box, enter `Fabrikam`
+   ![List of publishers in Maker portal.](../media/sss-66.png)
 
-1. In the **Name** text box, enter `fabrikam`
+1. In the **Display name (1)** text box, enter `Fabrikam`
 
-1. In the **Prefix** text box, enter `fab`
+1. In the **Name (2)** text box, enter `fabrikam`
 
-1. Select **Save**.
+1. In the **Prefix (3)** text box, enter `fab`
 
-    ![New publisher.](../media/new-publisher.png)
+1. Select **Save (4)**.
+
+    ![New publisher.](../media/ss-777.png)
 
 
 ### Task 1.3 – Create a solution
@@ -60,13 +53,13 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 1. Select **+ New solution**.
 
-1. In the **Display name** text box, enter **[my initials] Practice solution**. The Name text box should be automatically populated.
+1. In the **Display name** text box, enter **[my initials] Practice solution** (Example : PL Practice). The Name text box should be automatically populated.
 
 1. In the **Publisher** drop-down, select **Fabrikam**.
 
 1. Select **Create**.
 
-    ![New solution.](../media/new-solution.png)
+    ![New solution.](../media/sss-666.png)
 
 ## Exercise 2 - Add components to the solution
 
@@ -82,15 +75,15 @@ In this exercise, you will access the Power Apps maker portal and select the **D
 
 1. Select the **Practice solution** you created in the previous exercise.
 
-    ![Practice solution.](../media/practice-solution.png)
+    ![Practice solution.](../media/ss-44.png)
 
 1. Select **Add existing** and choose **Table**.
 
-    ![Add existing tables.](../media/add-existing.png)
+    ![Add existing tables.](../media/task2-5.png)
 
 1. Select the **Account** table.
 
-    ![Add tables.](../media/add-tables.png)
+    ![Add tables.](../media/task2-6.png)
 
 1. Select **Next**. 
 
@@ -110,7 +103,7 @@ In this exercise, you will access the Power Apps maker portal and select the **D
 
     > **Note:** You should have selected 1 view, 1 form, and 1 column for the **Account** table.
 
-    ![Add table objects.](../media/add-objects.png)
-
 1. Select **Add**.
+   
+     ![Add table objects.](../media/ss-15.png)
 
