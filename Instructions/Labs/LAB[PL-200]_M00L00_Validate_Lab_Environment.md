@@ -38,6 +38,8 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
 1.  Select your user **ODL_USER<inject key="DeploymentID"></inject>** to open the user details panel and select the **Licenses and apps** tab.
 
+    ![](../media/00mod.png)
+
 1.  Verify an appropriate **Power Apps** license is selected. If not, retry Task 1.1.
 
     > **Note:** Find out more about Power Apps licensing on [Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/admin/signup-for-powerapps-admin).
@@ -57,7 +59,7 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
     > **Note:** Find out more about Power Apps licensing on [Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/admin/signup-for-powerapps-admin).
 
-    ![](../media/mod00-lic.png)
+    ![](../media/00mod0.png)
 
 1.  Select **Save changes**.
 
