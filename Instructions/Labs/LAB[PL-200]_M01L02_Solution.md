@@ -7,8 +7,8 @@ In this lab, you will create a publisher and a solution.
 ## Lab objectives
 In this lab, you will perform:
 
-+ Task 1: Create publisher and solution
-+ Task 2: Add components to the solution
++ Exercise 1: Create publisher and solution
++ Exercise 2: Add components to the solution
 
 ## Exercise 1 - Create publisher and solution
 
