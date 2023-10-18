@@ -12,17 +12,19 @@ There are three model-driven apps in the solution:
 - Environmental Management
 - Environmental Project Delivery
 
-You will be:
+## Lab objectives
+In this lab, you will perform:
 
-- Modifying columns on the project form
-- Adding the timeline control to the project form
-- Replacing the project outcomes sub-grid
-- Adding the columns you created in the earlier lab to the forms
-- Editing the project quick view form
-- Adding a filter to the contact lookup on Program
-- Adding a quick create form
-- Copying a form
-- Adding the table you created in the earlier lab to an app
++ Exercise 1: Edit Project forms
++ Exercise 2: Edit Program form
++ Exercise 3: Edit Program Funding form
++ Exercise 4: Edit Region form
++ Exercise 5: Create a Quick Create form
++ Exercise 6: Edit Milestone form
++ Exercise 7: Edit Outcome form
++ Exercise 8: Edit Project Outcome form
++ Exercise 9: Copy Outcome form
++ Exercise 10: Modify model-driven apps
 
 ## Exercise 1 – Edit Project forms
 
@@ -749,3 +751,5 @@ In this task, you will perform the following changes to the app:
 
 1. Select **Done**.
 
+### Review
+In this lab, you edited project forms, program form, program funding form, region form, milestone form, outcome form and project outcome form, created a quick create form, copied outcome form and modified model-driven apps.
