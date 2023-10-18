@@ -4,6 +4,12 @@
 
 In this lab, you will create a publisher and a solution.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Task 1: Create publisher and solution
++ Task 2: Add components to the solution
+
 ## Exercise 1 - Create publisher and solution
 
 In this exercise, you will access the Power Apps maker portal, the Development environment and create a new solution.
@@ -107,3 +113,5 @@ In this exercise, you will access the Power Apps maker portal and select the **D
    
      ![Add table objects.](../media/ss-15.png)
 
+### Review
+In this lab, you created publisher and solution and also added components to the solution.
