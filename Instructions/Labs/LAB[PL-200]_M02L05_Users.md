@@ -12,6 +12,13 @@ You will add the users and team to column security profiles.
 
 > IMPORTANT: These labs are designed for use with a Microsoft 365 tenant provisioned with Microsoft 365 licenses and users. If you are not using an Authorized Lab Hoster (ALH) lab environment, you will need to create the users in Microsoft 365.
 
+## Lab objectives
+In this lab, you will:
+
++ Task 1: Add users to your environment
++ Task 2: Create a team
++ Task 3: Add user and team to column security profile
+  
 ## Exercise 1 – Add users to your environment
 
 ### Task 1.1 – Create Users
@@ -169,3 +176,5 @@ You will add the users and team to column security profiles.
 
 1. Select **Add**.
 
+### Review
+In this lab, you added users to your environment, created a team and also added teams and users to column security profile.
