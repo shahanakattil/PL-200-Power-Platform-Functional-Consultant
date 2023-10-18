@@ -18,6 +18,13 @@ You need to adjust the Write privileges for the Milestone and Outcome tables on 
 
 You need to remove privileges for importing and exporting of data, deleting account and contacts, and add privileges for connection roles and audit history.
 
+
+## Lab objectives
+In this lab, you will perform:
+
++ Task 1: Modify the Environmental user security role
++ Task 2: Export managed and unmanaged solution; import managed solution.
+  
 ## Exercise 1 – Modify the Environmental user security role
 
 ### Task 1.1 – Evaluate security role
@@ -201,3 +208,5 @@ In this exercise, you will export the solution from the Development environment 
 
     ![](../media/mod-02;lab-04(7).png)
 
+### Review
+In this lab, you modified the environmental user security role, exported managed and unmanaged solution; imported managed solution.
