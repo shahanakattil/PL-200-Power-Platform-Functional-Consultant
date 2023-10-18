@@ -12,6 +12,13 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will review the existing chatbot. You will explore and enhance the bot.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Acquire a PVA trial
++ Exercise 2: Enhance the chatbot
++ Exercise 3: Publish the bot
+
 ## Exercise 1 – Getting started
 
 In this exercise, you will acquire a PVA trial and examine the components in the chatbot.
@@ -335,3 +342,6 @@ In this exercise you will publish the chatbot.
 1. Check the box for **Topic overlap detection**.
 
 1. Click **Save**.
+
+### Review
+In this lab, you acquired a PVA trial, enhanced the chat bot and published it.
