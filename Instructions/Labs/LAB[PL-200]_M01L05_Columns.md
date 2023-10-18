@@ -6,6 +6,15 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will be modifying the properties of existing table columns and creating a new custom columns.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Modify and add columns on the Project table
++ Exercise 2: Modify and add columns on the Project Funding table
++ Exercise 3: Modify a lookup column on the Milestone table
++ Exercise 4: Add a Choice column
++ Exercise 5: Create columns on the Project Outcome table
+
 ## Exercise 1 – Modify and add columns on the Project table
 
 In this exercise, you will be changing properties on existing columns on the Project table in the Fabrikam Environmental solution, creating new columns, and adding an alternate key.
@@ -379,3 +388,5 @@ In this exercise, you will be creating columns on the Project Outcome custom tab
 
 1. Select **Publish all customizations**.
 
+### Review
+In this lab, you modified and added columns on the project and project funding table, modified a lookup coloumn on the milestone table, added a choice coloumn and created coloumns on the project outcome table.
