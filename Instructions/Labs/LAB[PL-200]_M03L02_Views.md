@@ -28,7 +28,7 @@ In this task, you will perform the following changes to the form:
 
 - add columns to views
 
-1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com` .
 
 1. Make sure you are in your **Development** environment.
 
