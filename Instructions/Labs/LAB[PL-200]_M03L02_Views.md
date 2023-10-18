@@ -12,17 +12,17 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will be modifying the views for the Fabrikam Environment model-driven apps.
 
-You will be:
+## Lab objectives
+In this lab, you will perform:
 
-- adding the columns you created in the earlier lab to the view
-- creating a new view for completed Projects
-- adding the funding amount to views
-- editing the lookup view for Outcomes
-- adding find columns to the Outcomes quick find view
-- configuring default view for Project Outcome
-- changing Milestone sub-grid on Project to an editable grid
-- restricting views in the app
-- Enabling Dataverse search
++ Exercise 1: Make changes to the views for the Project table
++ Exercise 2: Make changes to the views for the Project Funding table
++ Exercise 3: Make changes to the views for the Outcome table
++ Exercise 4: Make changes to the views for the Milestone table
++ Exercise 5: Make changes to the views for the Project Outcome table
++ Exercise 6: Make changes to a sub-grid
++ Exercise 7: Modify model-driven apps
++ Exercise 8: Enable Dataverse Search
 
 ## Exercise 1 – Project views
 
@@ -538,3 +538,5 @@ The find columns on the quick find views define the searchable fields in the Dat
 
 1. Select **Publish all customizations**.
 
+### Review
+In this lab, you made changes to the views for project table, project funding table, outcome table, milestone table and project outcome table. Also, made changes to a sub-grid, modified model-driven apps and enabled dataverse search.
