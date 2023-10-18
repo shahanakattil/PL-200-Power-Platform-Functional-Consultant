@@ -285,7 +285,7 @@ In this task, you will perform the following:
 
 1. Expand **Show advanced options**.
 
-1. Click into **Select columns** and enter **contoso_projectstatus**. The flow will only trigger when the project status value is changed.
+1. Click into **Select columns** and enter **projectstatus**. The flow will only trigger when the project status value is changed.
 
 1. Click on **+ New step**.
 
@@ -323,7 +323,7 @@ In this task, you will perform the following:
 
 1. Click into **Filter rows** and enter the following OData filter expression:
 
-    ```(contoso_projectstatus eq 330650003 and contoso_actualenddate eq null)```
+    ```(projectstatus eq 330650003 and actualenddate eq null)```
 
 1. Click **Save**.
 
