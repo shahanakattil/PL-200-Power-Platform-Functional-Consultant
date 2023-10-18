@@ -8,6 +8,17 @@ In this practice lab, you will be modifying the properties of existing relations
 
 You will then export your customizations from the solution and import them into another environment.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Change relationship behaviors
++ Exercise 2: Add new relationship
++ Exercise 3: Create new hierarchical relationship
++ Exercise 4: Create Project Outcome relationships
++ Exercise 5: Enable Connections
++ Exercise 6: Calculated and rollup columns
++ Exercise 7: Export and import solutions
+  
 ## Exercise 1 – Change relationship behaviors
 
 In this exercise, you will be modifying the cascade relationships for the project table. The Region to Project relationship will be changed to referential, restricted and the Project to Milestone relationship will be changed to custom.
@@ -571,3 +582,6 @@ In this exercise, you will export the solution from the Development environment 
 ## Challenge (Optional)
 
 Under Processes, examine the classic workflow, Project Funding Name, and create a new workflow to set the Title column on the Project Outcome table, when a new record is created or when a project or an outcome lookup column is changed.
+
+### Review
+In this lab, you have changed relationship behaviours, added new relationship, created new hierarichial and project outcome relationships, enabled connections, created calculated and rollup fields, exported and imported solutions.
