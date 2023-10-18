@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 6.2: Business process flows'
-    module: 'Module 6: Build automation with Power Automate'
----
-
 # Practice Lab 6.2 – Business process flows
 
 ## Scenario
@@ -36,7 +30,7 @@ In this exercise you will run the business process flow to generate an approval.
 
 1. You should see the **Outcome Lifecycle** business process flow at the top of the form.
 
-    ![Business process flow in model driven app form.](../media/bpf-form.png)
+    ![Business process flow in model driven app form.](../media/bpf-form.1.png)
 
 1. The business process flow has 5 stages (3 of which are showing):
 
@@ -132,7 +126,7 @@ In this exercise you will run the business process flow to generate an approval.
 
 1. Select **Outcome Lifecycle**, click on the ellipses (...), and select **Edit**.
 
-    ![Business process flow designer.](../media/bpf-editor.png)
+    ![Business process flow designer.](../media/bpf-editor.1.png)
 
 1. Expand **Details** on the first stage. There are two data steps for **Outcome Title** and an **Outcome Description**.
 
