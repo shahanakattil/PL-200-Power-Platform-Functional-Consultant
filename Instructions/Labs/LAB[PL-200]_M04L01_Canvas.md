@@ -14,6 +14,15 @@ You have been assigned to continue work on the Fabrikam Environmental Work Deliv
 
 In this practice lab, you will examine the app to see how it works, make some user interface changes, and call a Power Automate cloud flow.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Examine the canvas app
++ Exercise 2: Change the visual experience of the canvas app
++ Exercise 3: Update formulas and logic
++ Exercise 4: Add a Power Automate flow
++ Exercise 5: Export and import Solutions
+  
 ## Exercise 1 – Examine the canvas app
 
 In this exercise, you will learn about the canvas app.
@@ -653,3 +662,6 @@ In this exercise, you will export the solution from the Development environment 
 1. Select **Import**. The solution will import in the background.
 
    ![](../media/36.png)
+
+### Review
+In this lab, you examined the canvas app, changed the visual experience of the canvas app, updated formulas and logic, added a power automate flow, exported and imported solutions.
