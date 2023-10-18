@@ -254,6 +254,8 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Export Solution**.
 
+   ![New solution.](../media/26-1.1.png)
+
 1. Click **Next**.
 
 1. The version number should have been incremented to **1.1.11.13**.
