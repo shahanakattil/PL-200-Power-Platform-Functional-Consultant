@@ -36,31 +36,35 @@ In this exercise, you will import the main solution into the **Development** env
 
 1.  Make sure you are in your **Development** environment.
 
-1.  Select **Solutions**.
+     ![](../media/ex1(1).png)
+    
+1.  Select **Solutions** and then select **Import solution**.
 
-1.  Select **Import solution**.
+     ![](../media/ex1(2).png)
 
-1.  Select **Browse** and locate the **FabrikamEnvironmental_1_1_11_3.zip** file and select **Open**.
+1.  Select **Browse** and locate the **FabrikamEnvironmental_1_1_11_3.zip** file and select **Open**. Select **Next**.
 
-    > **Note:** This file is located in the Documents\PL-200 folder on your machine.
+    > **Note:** This file is located in the C:\Allfiles\Labs folder on your machine.
 
-    ![Solution to import.](../media/solution-to-import.png)
+     ![](../media/ex1(3).png)
+ 
+ 1.  Select **Next** again.
 
-1.  Select **Next**.
-
-1.  Select **Next** again.
+     ![](../media/exer1(4).png)
 
 1.  You need to create connections for the solution.
 
-    ![Connections for import of solution.](../media/connections-for-solution.png)
-
 1.  For the Approvals connection, in the **Select a connection** drop-down, choose **+ New connection**.
 
+     ![](../media/exerc1(5).png)
+    
 1.  A new tab will open in the browser. Select **Create**.
 
-    ![Create connection for approvals.](../media/create-approvals-connection.png)
+     ![](../media/ex1(6).png)
 
 1.  Switch back to the tab where you are importing the solution and select **Refresh**.
+
+     ![](../media/ex1(7).png)
 
 1.  For the Microsoft Dataverse connection, in the **Select a connection** drop-down, choose **+ New connection**.
 
@@ -68,32 +72,29 @@ In this exercise, you will import the main solution into the **Development** env
 
 1.  Switch back to the tab where you are importing the solution and select **Refresh**.
 
-1.  Both connections should now be configured.
+1.  Both connections should now be configured. Select **Import**.
 
-    ![Connections for import of solution.](../media/connections-for-solution-added.png)
-
-1.  Select **Import**.
-
-    The solution will import in the background. This may take a few minutes.
-
-    ![Solution imported.](../media/solution-imported.png)
+     ![](../media/ex1(8).png)
+    
+1. The solution will import in the background. This may take a few minutes.
 
     > **Alert:** Wait until the solution has finished importing before continuing to the next step.
 
 1.  When the solution has imported successfully, open the **Fabrikam Environmental** solution.
 
-1.  In the solution, select the **Overview** page.
+     ![](../media/ex1(9).png)
 
-    ![Overview.](../media/solution-overview.png)
+1.  In the solution, select the **Overview** page. Select **Publish all customizations**. 
 
-1.  Select **Publish all customizations**. 
-
+     ![](../media/ex1(10).png)
 
 ### Task 1.2 – Power Virtual Agents solution
 
 1.  Navigate to `https://make.powerapps.com`
 
 1.  Make sure you are in your **Development** environment.
+
+     ![](../media/ex1(1).png)
 
 1.  Select **Solutions**.
 
@@ -102,9 +103,11 @@ In this exercise, you will import the main solution into the **Development** env
 1.  Select **Browse**, locate the **FabrikamChatbot_1_1_1_1.zip** file and select **Open**.
 
     >[!NOTE]
-    > This file is located in the Documents\PL-200 folder on your machine.
+    > This file is located in the C:\Allfiles\Labs folder on your machine.
 
 1.  Select **Next**.
+
+     ![](../media/ex1(11).png)
 
 1.  Select **Import**. The solution will import in the background.
 
@@ -118,33 +121,27 @@ In this exercise, you will import data the into the **Development** environment 
 
 1.  In your lab virtual machine, open **File Explorer**.
 
-1.  Navigate to **Documents\PL-200\ConfigurationMigration**.
+1.  Navigate to **C:\Allfiles\Labs\ConfigurationMigration**.
 
 1.  Double-click on **DataMigrationUtility.exe**
+   
+1.  Choose **Import data**. Select **Continue**.
 
-    ![Configuration Migration Tool.](../media/configuration-migration-step1.png)
-
-1.  Choose **Import data**.
-
-1.  Select **Continue**.
+     ![](../media/ex2(1).png)
 
 1.  Select **Office 365** for **Deployment Type**.
 
 1.  Check the **Display list of available organizations** box.
 
-1.  Enter your Microsoft 365 tenant credentials.
+1.  Enter your Microsoft 365 tenant credentials and  select **Login**.
 
-    ![Configuration Migration Tool Login page.](../media/configuration-migration-step2.png)
-
-1.  Select **Login**.
-
-    ![Configuration Migration Tool select environment.](../media/configuration-migration-step3a.png)
+     ![](../media/ex2(2).png)
 
 1.  Choose your **Development** environment.
 
 1.  Select **Login**.
 
-    ![Configuration Migration Tool select data file.](../media/configuration-migration-step4.png)
+     ![](../media/ex2(3).png)
 
 1.  Select the ellipses (...) and locate and select **Fabrikam Environment data.zip** file.
 
@@ -153,6 +150,8 @@ In this exercise, you will import data the into the **Development** environment 
 1.  Select **Open**. The data file will be validated.
 
 1.  Select **Import Data**. The import process will take approximately a minute.
+
+     ![](../media/ex2(4).png)
 
 1.  Select **Exit**.
 
@@ -169,21 +168,24 @@ In this exercise, you will provision a Power Pages site. This can take a while, 
 
 1.  Use the Environment selector to switch to your **Development** environment.
 
+     ![](../media/ex3(1).png)
+
 1.  Select **Get started**.
 
 1.  If you are asked about your experience creating websites, select **Skip**.
 
 1.  Choose the default design template, **Starter layout 1**, and select **Choose this template**.
 
-    ![Select Starter layout template..](../media/power-pages-starter.png)
+     ![](../media/ex3(2).png)   
 
 1.  Enter `Fabrikam Milestones` for **Give your site a name**.
 
 1.  Use the autogenerated web address.
 
+     ![](../media/ex3(3).png)
+
 1.  Select **Done**.
 
     > The portal site will deploy. It can take around an hour for your site to fully deploy.
 
-    ![Power Pages portal deployed.](../media/portal-deployed.png)
 

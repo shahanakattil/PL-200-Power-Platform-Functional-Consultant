@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 2.7: Duplicate detection'
-    module: 'Module 2: Manage Microsoft Dataverse'
----
-
 # Practice Lab 2.7 - Duplicate detection
 
 ## Scenario
@@ -30,25 +24,33 @@ In this exercise, you will create a new duplicate detection rule that will mark 
 
 1. Select **Duplicate detection rules**.
 
+    ![](../media/mod-02;lab-07(1).png)
+
 1. Select **New**.
 
-1. Enter `Duplicate project` for **Name**.
+1. Enter `Duplicate project`(1) for **Name**.
 
-1. Select **Project** for both **Base Record Type** and **Matching Record Type**.
+1. Select **Project** for both **Base Record Type**(2) and **Matching Record Type**(3).
 
-1. Check the **Exclude inactive matching records** box.
+    ![](../media/Mod-02;lab-07(2).png)
 
-1. Under **Field**, select **Project Title**.
+1. Check the **Exclude inactive matching records**(1) box.
 
-1. Select **Exact Match** for **Criteria**.
+1. Under **Field**, select **Project Title**(2).
 
-1. Check the **Ignore Blank Values** box.
+1. Select **Exact Match** for **Criteria**(2).
+
+1. Check the **Ignore Blank Values** box(2).
+
+    ![](../media/Mod-02;lab-07(3).png)
 
 1. Add another field, select **Program**.
 
 1. Select **Exact Match** for **Criteria**.
 
 1. Check the **Ignore Blank Values** box.
+
+    ![](../media/mod-02;lab-07(4).png)
 
 1. Select **Save**.
 
