@@ -4,6 +4,12 @@
 
 In this lab, you create environments for use during the remainder of the labs.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Task 1: Create development environment
++ Task 2: Create live environment
+
 ## Exercise 1 - Create environments
 
 In this exercise, you will create a *Development* environment that you will do the majority of your lab work in and a *Live* environment to deploy solutions into.
@@ -66,3 +72,6 @@ In this exercise, you will create a *Development* environment that you will do t
     ![Environments.](../media/pg-2ss-5-1.png)
 
     > **Note:** You will use the *Development* environment for all customizations in the labs. The *Live* environment will act as your test/production environment.
+
+### Review
+In this lab, you created a development environment and a live environment.
