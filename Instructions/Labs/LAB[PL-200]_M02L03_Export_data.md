@@ -7,8 +7,8 @@ You are a functional consultant working on the Fabrikam project. You need to exp
 ## Lab objectives
 In this lab, you will perform:
 
-+ Task 1: Export data using the maker portal
-+ Task 2: Export data from a model-driven app
++ Exercise 1: Export data using the maker portal
++ Exercise 2: Export data from a model-driven app
 
 ## Exercise 1 – Export data
 

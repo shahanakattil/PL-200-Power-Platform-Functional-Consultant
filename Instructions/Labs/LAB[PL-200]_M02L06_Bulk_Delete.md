@@ -6,6 +6,11 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will be creating a recurring bulk deletion rule to automatically delete stale data.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Task 1: Create Bulk Delete Operation
+  
 ## Exercise 1 – Bulk Delete
 
 In this exercise, you will create a bulk deletion operation that will delete all milestone rows with a completion date older than 12 months. You want this operation to run every month.
@@ -72,3 +77,5 @@ In this exercise, you will create a bulk deletion operation that will delete all
 
 1. Wait for the job to be created. This can take few minutes. **Refresh** the view as needed.
 
+### Review
+In this lab, you created Bulk Delete Operation.

@@ -12,6 +12,13 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you change an existing approvals flow and add error handling. You will also set the value of the environment variable used by the flow. You will also create a new flow to automatically set the actual end date on projects.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Edit approval cloud flow
++ Exercise 2: Edit environment variable
++ Exercise 3: Create automatic cloud flow for project status
+
 ## Exercise 1 – Edit approval cloud flow
 
 In this exercise, you will enhance the existing approvals flow.
@@ -329,3 +336,6 @@ In this task, you will perform the following:
 1. Click **Save**.
 
 1. Click the back arrow icon in the top-left of the flow editor.
+
+### Review
+In this lab, you edited approval cloud flow and environmental variable and created automatic cloud flow for project status.
