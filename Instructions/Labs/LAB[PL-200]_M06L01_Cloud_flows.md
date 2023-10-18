@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 6.1: Cloud flows'
-    module: 'Module 6: Build automation with Power Automate'
----
-
 # Practice Lab 6.1 – Cloud flows
 
 ## Scenario
@@ -86,7 +80,7 @@ In this task, you will perform the following changes to the flow:
 
 1. In the condition step, note the **And** drop-down is set to **And**.
 
-    ![Condition.](../media/flow-condition.png)
+    ![Condition.](../media/flow-condition.1.png)
 
 1. Drag the **Start and wait for an approval** step into the **If yes** branch of the condition.
 
@@ -104,7 +98,7 @@ In this task, you will perform the following changes to the flow:
 
 1. Click **Save**.
 
-    ![Flow after changes in this task.](../media/flow-check-approver.png)
+    ![Flow after changes in this task.](../media/flow-check-approver.1.png)
 
 ### Task 1.3 – Error handling
 
@@ -136,7 +130,7 @@ In this task, you will perform the following changes to the flow:
 
 1. Click **Save**
 
-    ![Error handing and parallel branch.](../media/flow-error-handling.png)
+    ![Error handing and parallel branch.](../media/flow-error-handling.1.png)
 
 ### Task 1.4 – Set status to rejected
 
