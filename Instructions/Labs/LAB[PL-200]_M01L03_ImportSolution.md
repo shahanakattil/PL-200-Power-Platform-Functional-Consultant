@@ -28,9 +28,9 @@ In this lab, you will import the developed solutions and data.
 ## Lab objectives
 In this lab, you will perform:
 
-+ Task 1: Import Fabrikam solutions
-+ Task 2: Import data
-+ Task 3: Sign up for Power Pages
++ Exercise 1: Import Fabrikam solutions
++ Exercise 2: Import data
++ Exercise 3: Sign up for Power Pages
 
 ## Exercise 1 - Import Fabrikam solutions
 
