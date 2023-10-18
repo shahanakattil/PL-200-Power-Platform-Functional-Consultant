@@ -12,6 +12,14 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will review the existing business process flow on the outcome table and add branching on approval. You will also configure security for the business process flow.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Review the business process flow
++ Exercise 2: Modify business process flow
++ Exercise 3: Modify the Environmental user security role
++ Exercise 4: Export and import solution
+
 ## Exercise 1 – Review the business process flow
 
 In this exercise you will run the business process flow to generate an approval. You will approve the request and finish the business process flow. You will then examine the business process flow components in the business process flow designer.
@@ -285,3 +293,6 @@ In this exercise, you will export the solution from the Development environment 
 1. Click **Next**.
 
 1. Click **Import**. The solution will import in the background.
+
+### Review
+In this lab, you reviewed the business process flow, modified business process flow and environmental user security role, imported and exported solutions.
