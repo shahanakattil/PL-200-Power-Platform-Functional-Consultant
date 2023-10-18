@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 2.4: Security roles'
-    module: 'Module 2: Manage Microsoft Dataverse'
----
-
 # Practice Lab 2.4 - Security roles
 
 ## Scenario
@@ -40,6 +34,8 @@ You need to remove privileges for importing and exporting of data, deleting acco
 
 1. Select the **Environmental user** role and click **Edit**.
 
+    ![](../media/mod-02;lab-04(1).png)
+
 1. Select the **Core Records** tab.
 
 1. Scroll down and review the privileges the security role has for the **Core Records**.
@@ -55,13 +51,13 @@ You need to remove privileges for importing and exporting of data, deleting acco
 
 1. Select the **Write** privilege (third circle from the left) three times to change the access level circle to **Business Unit**.
 
-    ![Access levels for Milestone table.](../media/milestone-privileges.png)
+    ![Access levels for Milestone table.](../media/milestone-privileges1.png)
 
 1. Locate the **Outcome** table privileges.
 
 1. Select the **Write** privilege three times to change the access level circle to **Business Unit**.
 
-    ![Access levels for Outcome table.](../media/outcome-privileges.png)
+    ![Access levels for Outcome table.](../media/outcome-privileges2.png)
 
 1. Select **Save**.
 
@@ -74,7 +70,7 @@ You need to remove privileges for importing and exporting of data, deleting acco
 
 1. Select the **Delete** privilege (fourth circle from the left) once to change the access level circle to **None Selected**.
 
-    ![Access levels for Project Outcome table.](../media/project-outcome-privileges.png)
+    ![Access levels for Project Outcome table.](../media/project-outcome-privileges3.png)
 
 1. Select **Save**.
 
@@ -105,21 +101,25 @@ You need to remove privileges for importing and exporting of data, deleting acco
 
 1. Scroll down to **Miscellaneous Privileges**.
 
-1. Select the **View Audit History** privilege to change the access level circle to **Organization**. 
+1. Select the **View Audit History** privilege to change the access level circle to **Organization**.
+
+    ![](../media/mod-02;lab-04(2).png)
 
 1. Select the **Business Management** tab. 
 
 1. Scroll down to **Privacy Related Privileges**. 
 
-1. Select the **Export to Excel** privilege to change the access level circle to **None Selected**.
+1. Select the **Export to Excel**(1) privilege to change the access level circle to **None Selected**.
 
-1. Select the **Print** privilege to change the access level circle to **None Selected**.
+1. Select the **Print**(2) privilege to change the access level circle to **None Selected**.
 
 1. Scroll down to **Miscellaneous Privileges**.
 
-1. Select the **Bulk Edit** privilege to change the access level circle to **None Selected**.
+1. Select the **Bulk Edit**(3) privilege to change the access level circle to **None Selected**.
 
-1. Select the **Merge** privilege to change the access level circle to **None Selected**.
+1. Select the **Merge**(4) privilege to change the access level circle to **None Selected**.
+
+    ![](../media/mod-02;lab-04(3).png)
 
 1. Select **Save and Close**.
 
@@ -149,11 +149,14 @@ In this exercise, you will export the solution from the Development environment 
 1. The version number should have been incremented to **1.1.11.6**.
 
 1. Select **Managed** for **Export As**.
-
+   
 1. Select **Export**.
+
+    ![](../media/mod-02;lab-04(4).png)
 
 1. The export will be prepared in the background, when the solution is ready select the **Download** button.
 
+    ![](../media/mod-02;lab-04(5).png)
 
 ### Task 2.2 – Export unmanaged solution
 
@@ -186,6 +189,8 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Next**.
 
+    ![](../media/mod-02;lab-04(6).png)
+
     > **Note:** You should see a notification that the solution package contains an update for a solution that is already installed.
 
 1. Expand **Advanced settings**.
@@ -193,4 +198,6 @@ In this exercise, you will export the solution from the Development environment 
 1. Select **Upgrade** for **Solution action**.
 
 1. Select **Import**. The solution will import in the background.
+
+    ![](../media/mod-02;lab-04(7).png)
 

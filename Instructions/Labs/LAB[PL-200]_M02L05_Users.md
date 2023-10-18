@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 2.5: Users and Teams'
-    module: 'Module 2: Manage Microsoft Dataverse'
----
-
 # Practice Lab 2.5 – Users and Teams
 
 ## Scenario
@@ -18,6 +12,13 @@ You will add the users and team to column security profiles.
 
 > IMPORTANT: These labs are designed for use with a Microsoft 365 tenant provisioned with Microsoft 365 licenses and users. If you are not using an Authorized Lab Hoster (ALH) lab environment, you will need to create the users in Microsoft 365.
 
+## Lab objectives
+In this lab, you will:
+
++ Task 1: Add users to your environment
++ Task 2: Create a team
++ Task 3: Add user and team to column security profile
+  
 ## Exercise 1 – Add users to your environment
 
 ### Task 1.1 – Create Users
@@ -30,19 +31,27 @@ You will add the users and team to column security profiles.
 
 1. Select **Settings**.
 
+    ![](../media/mod-02;lab-05(2).png)
+
 1. Expand **Users + permissions**.
 
 1. Select **Users**.
 
 1. Select **+ Add user**.
 
+    ![](../media/mod-02;lab-05(3).png)
+
 1. Enter `Alex` in **Enter a name or an email address** and select **Alex Wilber**.
 
 1. Select **Add**.
 
+    ![](../media/mod-02;lab-05(4).png)
+
 1. Select the **Environmental User** role.
 
 1. Select **Save**.
+
+    ![](../media/mod-02;lab-05(5).png)
 
 1. Select **+ Add user**.
 
@@ -53,6 +62,8 @@ You will add the users and team to column security profiles.
 1. Select the **Environmental User** and **Environmental Manager** roles.
 
 1. Select **Save**.
+
+    ![](../media/mod-02;lab-05(6).png)
 
 1. Select **+ Add user**.
 
@@ -85,15 +96,19 @@ You will add the users and team to column security profiles.
 
 1. Select **+ Create team**.
 
-1. Enter `Fabrikam Managers` for **Team name**.
+    ![](../media/mod-02;lab-05(7).png)
 
-1. Select the root business unit.
+1. Enter `Fabrikam Managers`(1) for **Team name**.
 
-1. Enter `MOD` in **Administrator** and select **MOD Administrator**.
+1. Select the root business unit(2).
 
-1. Select **Owner** in the **Team type** drop-down.
+1. Enter `ODL_user` in **Administrator** and select **ODL_User <inject key="DeploymentID"></inject>**.
+
+1. Select **Owner**(4) in the **Team type** drop-down.
 
 1. Select **Next**.
+
+    ![](../media/mod-02;lab-05(8).png)
 
 1. Enter `Megan` in **Enter a name or an email address** and select **Megan Bowen**.
 
@@ -102,6 +117,8 @@ You will add the users and team to column security profiles.
 1. Select the **Environmental User** and **Environmental Manager** roles.
 
 1. Select **Save**.
+
+    ![](../media/mod-02;lab-05(9).png)
 
 
 ## Exercise 3 – Column security profile
@@ -120,11 +137,15 @@ You will add the users and team to column security profiles.
 
 1. Select **Column security profiles**.
 
+    ![](../media/mod-02;lab-05(10).png)
+
 1. Select **Outcome Approval Read-Only**.
 
 1. Select the **Users** tab.
 
 1. Select **+ Add Users**.
+
+    ![](../media/mod-02;lab-05(11).png)
 
 1. Enter `Alex` in **Enter a name or an email address** and select **Alex Wilber**.
 
@@ -141,6 +162,8 @@ You will add the users and team to column security profiles.
 
 1. Select **+ Add Users**.
 
+    ![](../media/mod-02;lab-05(11).png)
+
 1. Enter `Patti` in **Enter a name or an email address** and select **Patti Fernandez**.
 
 1. Select **Add**.
@@ -153,3 +176,5 @@ You will add the users and team to column security profiles.
 
 1. Select **Add**.
 
+### Review
+In this lab, you added users to your environment, created a team and also added teams and users to column security profile.
