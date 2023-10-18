@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.6: Relationships'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.6 – Relationships
 
 ## Scenario
@@ -20,7 +14,7 @@ In this exercise, you will be modifying the cascade relationships for the projec
 
 ### Task 1.1 – Region-Project relationship
 
-1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com `
 
 1. Make sure you are in your **Development** environment.
 
@@ -42,7 +36,7 @@ In this exercise, you will be modifying the cascade relationships for the projec
 
 1. Select **Done**.
 
-    ![Referential Restrict relationship.](../media/referential-restrict-relationship.png)
+    ![Referential Restrict relationship.](../media/pg-6-1-1.png)
 
 
 ### Task 1.2 – Project-Milestone relationship
@@ -51,19 +45,19 @@ In this exercise, you will be modifying the cascade relationships for the projec
 
 1. In the **One-to-many** pane that appears on the right-hand side of the screen, expand **Advanced options**.
 
-1. Change the **Type of behavior** drop-down to **Custom**.
+1. Change the **Type of behavior** drop-down to **Custom (1)**.
 
-1. Change the **Delete** drop-down to **Restrict**.
+1. Change the **Delete** drop-down to **Restrict (2)**.
 
-1. Change the **Assign** drop-down to **Cascade Active**.
+1. Change the **Assign** drop-down to **Cascade Active (3)**.
 
-1. Change the **Share** drop-down to **Cascade User-Owned**.
+1. Change the **Share** drop-down to **Cascade User-Owned (4)**.
 
-1. Change the **Unshare** drop-down to **Cascade User-Owned**.
+1. Change the **Unshare** drop-down to **Cascade User-Owned (5)**.
 
 1. Select **Done**.
 
-    ![Cascade relationship.](../media/custom-cascade-relationship.png)
+    ![Cascade relationship.](../media/pg-6-2-2-2.png)
 
 
 ## Exercise 2 – Add new relationship
@@ -104,7 +98,7 @@ In this exercise, you will create a new relationship between the Resource and Pr
 
 1. Select **Done**.
 
-    ![Referential Restrict relationship.](../media/add-relationship.png)
+    ![Referential Restrict relationship.](../media/pg-6-3-3-3.png)
 
 1. In the **Objects** pane on the left, select **Columns** for the **Project** table.
 
@@ -155,7 +149,7 @@ In this exercise, you will create a new hierarchical relationship on the region 
 
 1. Select **Done**.
 
-    ![Hierarchical relationship.](../media/add-hierarchical-relationship.png)
+    ![Hierarchical relationship.](../media/pg-6-4-4.png)
 
 
 ## Exercise 4 – Project Outcome relationships
@@ -305,7 +299,7 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. In the solution, select the **Overview** page.
 
-    ![Overview.](../media/solution-overview.png)
+    ![Overview.](../media/15-1.png)
 
 1. Select **Publish all customizations**.
 
@@ -324,7 +318,7 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. Select the **Save** icon.
 
-    ![Add connection role.](../media/add-connection-role.png)
+    ![Add connection role.](../media/pg-6-7-7.png)
 
 1. Under **Matching connection roles**, select **New**.
 
@@ -355,6 +349,8 @@ In this exercise, you will enable connections for the resource and milestone tab
 1. Under **Matching connection roles**, select **Add Existing**.
 
 1. Add **Contributed to** to the **selected records** by selecting the row using the **Select** button.
+
+   ![Add connection role.](../media/20-1.png)
 
 1. Select **Add**.
 
@@ -415,7 +411,7 @@ In this exercise, you will use relationships to create calculated and rollup fie
 
 1. Select the blue check mark.
 
-    ![Add calculated column using a relationship.](../media/calculated-column-using-relationship.png)
+    ![Add calculated column using a relationship.](../media/pg-6-8-8.png)
 
 1. Select **SAVE AND CLOSE**.
 
@@ -462,12 +458,15 @@ In this exercise, you will use relationships to create calculated and rollup fie
 
 1. Select **SAVE AND CLOSE**.
 
-    ![Add rollup column.](../media/add-rollup-column.png)
+    ![Add rollup column.](../media/pg-6-8-8.png)
 
 
 ### Task 6.3 – Publish changes
 
 1. In the solution, select the **Overview** page.
+   
+   ![Overview.](../media/15-1.png)
+
 
 1. Select **Publish all customizations**.
 
@@ -521,6 +520,9 @@ In this exercise, you will export the solution from the Development environment 
 1. Select **Export Solution**.
 
 1. Select **Next**.
+   
+   ![Add rollup column.](../media/26-1.png)
+   
 
 1. The version number should have been incremented to **1.1.11.5**.
 

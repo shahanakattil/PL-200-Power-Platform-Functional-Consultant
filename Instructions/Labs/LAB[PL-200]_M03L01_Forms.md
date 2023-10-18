@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 3.1: Forms'
-    module: 'Module 3: Create model-driven apps in Power Apps'
----
-
 # Practice Lab 3.1 – Forms
 
 ## Scenario
@@ -130,7 +124,7 @@ In this task, you will perform the following changes to the form:
 
 1. Select the **Outcomes** tab.
 
-1. Select the **Outcomes SubGrid**.
+1. Make sure the default is set to **Outcomes SubGrid**, if not select it.
 
 1. In the properties pane on the right-hand side, select **Project Outcomes (Project)** in the **Table** drop-down.
 
@@ -299,7 +293,7 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Table columns** on the left navigation of the form designer.
 
-1. Drag the **Parent Region** column below **Region Name**.
+1. Drag the **Region** column below **Region Name**.
 
 1. Select **Components** on the left navigation of the form designer.
 

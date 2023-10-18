@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.5: Columns'
-    module: 'Module 1: Work with Microsoft Dataverse'
----
-
 # Practice Lab 1.5 – Columns
 
 ## Scenario
@@ -38,6 +32,8 @@ In this exercise, you will be changing properties on existing columns on the Pro
 1. In the **Edit column** pane that appears on the right-hand side of the screen, expand **Advanced options** and scroll down.
 
 1. Change the **Maximum character count** to **10000**.
+
+   ![Add calculated column.](../media/3-1-1.png)
 
 1. Select **Save**.
 
@@ -99,7 +95,11 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Check the **Project Code** Column.
 
+   ![Add calculated column.](../media/14-1.png)
+
+
 1. Select **Save**.
+   
 
 
 ### Task 1.4 – Add a calculated column
@@ -120,7 +120,7 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Select **Save and edit**.
 
-    ![Add calculated column.](../media/add-calculated-column.png)
+    ![Add calculated column.](../media/lab-5-01-1.png)
 
     > **NOTE:** You may need to disable the pop-up blocker in your browser and edit the Length of Project column.
 
@@ -151,10 +151,11 @@ In this exercise, you will be changing properties on existing columns on the Pro
     > NOTE: You can use intellisense to type and select the elements in the formula.
 
 1. Select the blue check mark to save changes.
+   
+    ![Add Choice column.](../media/lab-5-02.png)
 
 1. Select **SAVE AND CLOSE**.
 
-    ![Calculated column.](../media/calculated-column.png)
 
 
 ## Exercise 2 – Modify and add columns on the Project Funding table
@@ -280,7 +281,7 @@ In this exercise, you will be creating a choice column to replace the use of sta
 
 1. Select **Save**.
 
-    ![Choice column.](../media/new-choice.png)
+    ![Choice column.](../media/lab-5-01-1.png)
 
 
 ### Task 4.2 – Add choice to Milestone table
@@ -303,7 +304,7 @@ In this exercise, you will be creating a choice column to replace the use of sta
 
 1. Select **Save**.
 
-    ![Add Choice column.](../media/add-choice.png)
+    ![Add Choice column.](../media/lab-5-04-1.png)
 
 
 ### Task 4.3 – Add choice to Outcome table
@@ -374,7 +375,7 @@ In this exercise, you will be creating columns on the Project Outcome custom tab
 
 1. In the solution select the **Overview** page.
 
-    ![Overview.](../media/solution-overview.png)
+    ![Overview.](../media/15-1.png)
 
 1. Select **Publish all customizations**.
 
