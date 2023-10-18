@@ -64,11 +64,14 @@ In this task, you will perform the following changes to the flow:
 
 1. Click in the **Choose a value** field.
 
-1. In **Dynamic content**, select the **Expression** tab.
+1. In **Dynamic content**, select the **Expression (1)** tab.
 
-1. Enter **length()** and position the cursor between the brackets.
+1. Enter **length() (2)** and position the cursor between the brackets.
+    ![Condition.](../media/demo2.png)
 
-1. Select the **Dynamic content** tab, select **See more** for **Get Outcome**, and select the **Approver Email** and click **OK**.
+1. Select the **Dynamic content** tab, select **See more** for **Get Outcome**, and select the **Approver Email (3)** and click **OK**.
+
+   ![Condition.](../media/demo1.png)
 
 1. The expression should be as follows:
 
@@ -163,7 +166,9 @@ In **Dynamic content**, search for outcome and select **Outcome** under the **Ge
 1. Click **Save**
 
 1. Click the back arrow icon in the top-left of the flow editor.
-**Note:** If you receive an error message stating **This isn't the latest content**, select **Overwrite other people's changes** then click **Apply** to move forward. 
+**Note:** If you receive an error message stating **This isn't the latest content**, select **Overwrite other people's changes** then click **Apply** to move forward.
+
+![Condition.](../media/demo3.png)
 
 ## Exercise 2 – Edit environment variable
 
