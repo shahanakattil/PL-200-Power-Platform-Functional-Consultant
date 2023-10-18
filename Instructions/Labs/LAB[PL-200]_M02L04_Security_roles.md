@@ -22,8 +22,8 @@ You need to remove privileges for importing and exporting of data, deleting acco
 ## Lab objectives
 In this lab, you will perform:
 
-+ Task 1: Modify the Environmental user security role
-+ Task 2: Export managed and unmanaged solution; import managed solution.
++ Exercise 1: Modify the Environmental user security role
++ Exercise 2: Export managed and unmanaged solution; import managed solution.
   
 ## Exercise 1 – Modify the Environmental user security role
 
