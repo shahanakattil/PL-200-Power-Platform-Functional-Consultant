@@ -15,9 +15,9 @@ You will add the users and team to column security profiles.
 ## Lab objectives
 In this lab, you will:
 
-+ Task 1: Add users to your environment
-+ Task 2: Create a team
-+ Task 3: Add user and team to column security profile
++ Exercise 1: Add users to your environment
++ Exercise 2: Create a team
++ Exercise 3: Add user and team to column security profile
   
 ## Exercise 1 – Add users to your environment
 

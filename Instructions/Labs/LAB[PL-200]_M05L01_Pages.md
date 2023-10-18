@@ -6,6 +6,12 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will explore your Power Pages portal and expose Milestone data to customers.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Explore and configure a Power Pages site
++ Exercise 2: Expose Dataverse data
+
 ## Exercise 1 - Explore and configure a Power Pages site
 
 In this exercise, you will explore a Power Pages site and the Power Pages tools. You will make minor changes to the site content.
@@ -339,3 +345,6 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 1. Click on **Preview** and then select **Desktop**.
 
 1. Test viewing and editing Milestones.
+
+### Review
+In this lab, you explored,configured a Power Pages site and exposed a datverse data

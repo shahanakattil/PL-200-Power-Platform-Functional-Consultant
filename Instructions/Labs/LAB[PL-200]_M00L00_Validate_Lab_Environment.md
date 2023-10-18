@@ -5,6 +5,13 @@
 # WWL Tenants - Terms of Use
 If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. Tenants should not be shared or used for purposes outside of hands-on labs. The tenant used in this course is a trial tenant and cannot be used or accessed after the class is over and are not eligible for extension. Tenants must not be converted to a paid subscription. Tenants obtained as a part of this course remain the property of Microsoft Corporation and we reserve the right to obtain access and repossess at any time. 
 
+## Lab objectives
+In this lab, you will perform:
+
++ Task 1: Acquire Power Platform trial tenant
++ Task 2: Verify your Power Apps license has been assigned
++ Task 3: Assign Power Apps licenses to other users
+  
 ## Exercise 1 – Acquire a Microsoft Power Platform trial
 
 In this exercise, you will add a Power Apps trial to the tenant and assign licenses to users.
@@ -38,6 +45,8 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
 1.  Select your user **ODL_USER<inject key="DeploymentID"></inject>** to open the user details panel and select the **Licenses and apps** tab.
 
+    ![](../media/00mod.png)
+
 1.  Verify an appropriate **Power Apps** license is selected. If not, retry Task 1.1.
 
     > **Note:** Find out more about Power Apps licensing on [Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/admin/signup-for-powerapps-admin).
@@ -51,15 +60,17 @@ In this exercise, you will add a Power Apps trial to the tenant and assign licen
 
 1.  Check the boxes next to the other users, select the **ellipses (...**) menu in the action bar, and select **Manage product licenses**.
 
-    ![](../media/pl-200(3).png)
+    ![](../media/Pl-200(3).png)
 
 1.  Select **Assign more** and select an appropriate **Power Apps** license.
 
     > **Note:** Find out more about Power Apps licensing on [Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/admin/signup-for-powerapps-admin).
 
-    ![](../media/mod00-lic.png)
+    ![](../media/00mod0.png)
 
 1.  Select **Save changes**.
 
 1.  Select **Done**.
 
+### Review
+In this lab, you acquired Power Platform trial tenant,verified your Power Apps license and assigned Power Apps licenses to other users.

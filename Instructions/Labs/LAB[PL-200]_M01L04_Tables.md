@@ -11,6 +11,13 @@ You need to familiarize yourself with the data model and then make changes to ta
 
 In this practice lab, you will be modifying table properties and creating a new custom table.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Explore the data model 
++ Exercise 2: Change table properties
++ Exercise 3: Create a custom table
+  
 ## Exercise 1 – Explore the data model
 
 In this exercise, you will be examining the tables in the Fabrikam Environmental solution. Take some time to familiarize yourself with your client, Fabrikam's, data model and existing business rules. 
@@ -180,3 +187,5 @@ In later labs you will be adding columns and relationships to this custom table.
 
 1.  Select **Publish all customizations**.
 
+### Review
+In this lab, you explored the data model, changed the table properties and created a custom table.

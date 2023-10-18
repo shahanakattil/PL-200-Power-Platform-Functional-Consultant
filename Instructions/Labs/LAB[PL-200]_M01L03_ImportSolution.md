@@ -25,6 +25,13 @@ The solutions contain:
 
 In this lab, you will import the developed solutions and data.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Exercise 1: Import Fabrikam solutions
++ Exercise 2: Import data
++ Exercise 3: Sign up for Power Pages
+
 ## Exercise 1 - Import Fabrikam solutions
 
 In this exercise, you will import the main solution into the **Development** environment.
@@ -200,4 +207,5 @@ In this exercise, you will provision a Power Pages site. This can take a while, 
 
     > The portal site will deploy. It can take around an hour for your site to fully deploy.
 
-
+### Review
+In this lab, you imported Fabrikam solutions, imported data and signed up for power pages.

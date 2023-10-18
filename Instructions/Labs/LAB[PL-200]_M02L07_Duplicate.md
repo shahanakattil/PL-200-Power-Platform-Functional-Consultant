@@ -6,6 +6,11 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will implement duplicate detection rules so that duplicate projects cannot be created for the same program.
 
+## Lab objectives
+In this lab, you will perform:
+
++ Task 1: Create duplicate detection rule
+  
 ## Exercise 1 – Create new duplicate detection rule
 
 In this exercise, you will create a new duplicate detection rule that will mark a Project as duplicate if it has the same project title and program.
@@ -60,3 +65,5 @@ In this exercise, you will create a new duplicate detection rule that will mark 
 
 1. Select **Close**.
 
+### Review
+In this lab, you created new duplicate detection rule.

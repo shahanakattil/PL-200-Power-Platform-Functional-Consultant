@@ -6,11 +6,13 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will be creating an interactive dashboard and adding it to a Fabrikam Environment model-driven app.
 
-You will be:
+## Lab objectives
+In this lab, you will perform:
 
-- configuring security for dashboards
-- creating an interactive dashboard
-- enabling Power BI quick reports in the app
++ Exercise 1: Configuring Dashboard security
++ Exercise 2: Create an interactive dashboard
++ Exercise 3: Enable Power BI quick reports
++ Exercise 4: Import and export solution
 
 ## Exercise 1 – Dashboard security
 
@@ -205,3 +207,5 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select **Import**. The solution will import in the background.
 
+### Review
+In this lab, you configured dashboard security, created an interactive dashboard, enabled Power BI report, imported and exported solution.
