@@ -14,9 +14,9 @@ In this practice lab, you will be modifying table properties and creating a new 
 ## Lab objectives
 In this lab, you will perform:
 
-+ Task 1: Explore the data model 
-+ Task 2: Change table properties
-+ Task 3: Create a custom table
++ Exercise 1: Explore the data model 
++ Exercise 2: Change table properties
++ Exercise 3: Create a custom table
   
 ## Exercise 1 – Explore the data model
 
