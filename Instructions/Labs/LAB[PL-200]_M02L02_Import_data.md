@@ -4,6 +4,13 @@
 
 You are a functional consultant working on the Fabrikam project. Your need to import some data in the your Dataverse environment. You choose to leverage Power Query to transform the data and complete the import.
 
+## Lab objectives
+In this lab, you will:
+
++ Task 1: Load Excel file to OneDrive
++ Task 2: Create a dataflow
++ Task 3: Test Your work
+  
 ## Exercise 1 – Import data
 
 In this exercise, you will import Outcome rows into your Microsoft Dataverse environment using a dataflow.
@@ -121,4 +128,5 @@ In this exercise, you will import Outcome rows into your Microsoft Dataverse env
 
 1. Verify the **Outcome Lifecycle** business process flow is visible at the top of the form.
 
-
+### Review
+In this lab, you have loaded excel file to onedrive, created a dataflow and tested your work.
