@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 3.2: Views'
-    module: 'Module 3: Create model-driven apps in Power Apps'
----
-
 # Practice Lab 3.2 – Views
 
 ## Scenario
@@ -275,7 +269,7 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Completed** and **Cancelled**.
 
-    ![Edit filters pane.](../media/edit-filters.png)
+    ![Edit filters pane.](../media/mod-3lab2-1-1.png)
 
 1. Select **OK**.
 
@@ -518,11 +512,11 @@ The find columns on the quick find views define the searchable fields in the Dat
 
 1. In the solution select the **Overview** page.
 
-    ![Overview.](../media/solution-overview.png)
+    ![Overview.](../media/mod-3lab2-2-1.png)
 
 1. Select **Manage search index**.
 
-    ![Manages search index on solution.](../media/manage-search-index.png)
+    ![Manages search index on solution.](../media/mod-3lab2-3-1.png)
 
 1. In the **Select tables to index for Dataverse search** pane, add the following tables:
 
@@ -530,7 +524,7 @@ The find columns on the quick find views define the searchable fields in the Dat
     - Project Funding
     - Resource
 
-    ![Index tables in solution.](../media/indexed-tables.png)
+    ![Index tables in solution.](../media/mod-3lab2-4-1.png)
 
 1. Select **Save**.
 
