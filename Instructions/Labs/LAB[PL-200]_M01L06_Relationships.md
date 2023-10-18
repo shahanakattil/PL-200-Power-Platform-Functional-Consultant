@@ -16,7 +16,7 @@ In this lab, you will perform:
 + Exercise 3: Create new hierarchical relationship
 + Exercise 4: Create Project Outcome relationships
 + Exercise 5: Enable Connections
-+ Exercise 6: Calculated and rollup columns
++ Exercise 6: Create Calculated and rollup columns
 + Exercise 7: Export and import solutions
   
 ## Exercise 1 – Change relationship behaviors
