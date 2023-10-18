@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 6.2: Business process flows'
-    module: 'Module 6: Build automation with Power Automate'
----
-
 # Practice Lab 6.2 – Business process flows
 
 ## Scenario
@@ -44,7 +38,7 @@ In this exercise you will run the business process flow to generate an approval.
 
 1. You should see the **Outcome Lifecycle** business process flow at the top of the form.
 
-    ![Business process flow in model driven app form.](../media/bpf-form.png)
+    ![Business process flow in model driven app form.](../media/bpf-form.1.png)
 
 1. The business process flow has 5 stages (3 of which are showing):
 
@@ -94,6 +88,12 @@ In this exercise you will run the business process flow to generate an approval.
 
     > NOTE: The first time an approval is created in an environment, the approvals solution is automatically installed. This installation can take up to 10 minutes.
 
+    > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Click the (...) icon located at the upper right corner of the lab guide section and navigate to the Lab Validation Page.
+> - Hit the Validate button for the corresponding task.If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ### Task 1.2 - Approve the request
 
 1. Open a new tab in the browser and navigate to Microsoft Teams <https://teams.microsoft.com>.
@@ -140,7 +140,7 @@ In this exercise you will run the business process flow to generate an approval.
 
 1. Select **Outcome Lifecycle**, click on the ellipses (...), and select **Edit**.
 
-    ![Business process flow designer.](../media/bpf-editor.png)
+    ![Business process flow designer.](../media/bpf-editor.1.png)
 
 1. Expand **Details** on the first stage. There are two data steps for **Outcome Title** and an **Outcome Description**.
 
@@ -267,6 +267,8 @@ In this exercise, you will export the solution from the Development environment 
 1. Select the **Fabrikam Environmental** solution.
 
 1. Select **Export Solution**.
+
+   ![New solution.](../media/26-1.1.png)
 
 1. Click **Next**.
 

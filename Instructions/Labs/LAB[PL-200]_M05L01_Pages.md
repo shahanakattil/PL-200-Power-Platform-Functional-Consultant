@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 5.1: Build a Power Pages portal'
-    module: 'Module 5: Make portals in Power Pages'
----
-
 # Practice Lab 5.1 – Build a Power Pages portal
 
 ## Scenario
@@ -38,6 +32,8 @@ In this exercise, you will explore a Power Pages site and the Power Pages tools.
 
 1. In the menu, select **Pages** and then select **Subpage 2**. You should see an empty page.
 
+    ![Power Pages permissions requested.](../media/pg-20-1.1.png)
+
 1. In the menu, select **Contact us**. You should see a form.
 
 1. Complete the **Fill in your details** form with dummy data and click **Submit**.
@@ -48,13 +44,17 @@ In this exercise, you will explore a Power Pages site and the Power Pages tools.
 
 1. Click **Azure AD**. This will sign you in with your Microsoft 365 credentials.
 
-    ![Power Pages permissions requested.](../media/portal-permissions-requested.png)
+    ![Power Pages permissions requested.](../media/pg-20-1.2.png)
+   
 
 1. In the permissions requested dialog, click **Accept**.
 
+    ![Power Pages permissions requested.](../media/mod-5lab1-1.1.png)
+   
+
 Your user has been added to the portal site.
 
-### Task 1.3 - Review the Portal Management model-driven app
+### Task 1.3 - Review the Power pages Management model-driven app
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
@@ -62,7 +62,9 @@ Your user has been added to the portal site.
 
 1. Select **Apps**.
 
-1. Select the **Portal Management** app, click on the ellipses (...), and select **Play**.
+1. Select the **Power pages Management** app, click on the ellipses (...), and select **Play** or You can directly Click on **Play**.
+
+    ![Power Pages permissions requested.](../media/pg-20-3.1.png)
 
 1. In the left-hand navigation, select **Web Pages**. You should see 9 pages including **Subpage 2**.
 
@@ -76,15 +78,17 @@ Your user has been added to the portal site.
 
 1. In the left-hand navigation, select **Contacts**.
 
-1. A contact has been created for your user, **MOD Administrator**.
+1. A contact has been created for your user, **ODL User**.   
 
-1. Select and edit **MOD Administrator**.
+1. Select and edit **ODL User**.
 
 1. Click the caret at the top-left of the form and select the **Portal Contact** form.
 
 1. Select the **Web Authentication** tab. You are authenticating using **https://sts.windows.net** which is Azure Active Directory.
 
 1. Select the **Related** tab and then select **Web Roles**. Note that you have the **Administrators** web role.
+
+    ![Power Pages permissions requested.](../media/pg-20-8.1.png)
 
 1. In the left-hand navigation, select **Web Roles**. You will see three web roles:
 
@@ -109,6 +113,8 @@ Your user has been added to the portal site.
 
 1. Click **Save & Close**.
 
+![Power Pages permissions requested.](../media/pg-20-9.1.png)
+
     > NOTE: The footer on the site is not updated immediately.
 
 ### Task 1.5 - Review Portal Designer
@@ -119,7 +125,7 @@ Your user has been added to the portal site.
 
 1. Edit **Edit**.
 
-    ![Power Pages designer.](../media/power-pages-designer.png)
+    ![Power Pages designer.](../media/mod-5-lab1-2.1.png)
 
 1. Scroll to the bottom of the page. You should see the footer that you changed in the earlier task.
 
@@ -127,11 +133,15 @@ Your user has been added to the portal site.
 
 1. Select **Subpage 2**. Do not navigate away from this page.
 
+   ![Power Pages permissions requested.](../media/pg-20-1.1.png)
+
 ### Task 1.6 - Update pages in the Portal Designer
 
 1. Select the ellipses (...) and select **Page settings**.
 
 1. Enter **Milestones** for **Name**.
+
+   ![Power Pages permissions requested.](../media/pg-20-12.1.png)
 
 1. Enter **milestones** for **Partial URL**.
 
@@ -159,7 +169,7 @@ Your user has been added to the portal site.
 
 1. Enter **Fabrikam Environmental**.
 
-    ![Power Pages portal edits.](../media/designer-edit.png)
+    ![Power Pages portal edits.](../media/mod-5-lab1-3.png)
 
 ### Task 1.7 - View the changes to the site
 
@@ -201,6 +211,8 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 
 1. In the **Table Permissions** pane on the right-hand side, click **+ New permission**
 
+   ![Power Pages permissions requested.](../media/pg-20task2.2.png)
+
 1. Enter **Milestones** for **Name**.
 
 1. Select **Milestone (contoso_milestone)** for **Table**.
@@ -224,7 +236,7 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 
 1. Click **Save**.
 
-    ![Power Pages table permissions.](../media/portal-table-permissions.png)
+    ![Power Pages table permissions.](../media/mod-5lab1-4.png)
 
 1. In the **Table Permissions** pane on the right-hand side, click **New table permission**
 
@@ -270,7 +282,7 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 
 1. Select **Start from blank**.
 
-    ![Add page to site.](../media/portal-add-page.png)
+    ![Add page to site.](../media/mod-5-lab1-5.png)
 
 1. Click **Add**
 

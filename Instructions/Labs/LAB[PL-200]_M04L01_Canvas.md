@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 4.1: Enhance a canvas app'
-    module: 'Module 4: Create canvas apps in Power Apps'
----
-
 # Practice Lab 4.1 – Enhance a canvas app
 
 ## Scenario

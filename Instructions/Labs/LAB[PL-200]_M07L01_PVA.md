@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 7.1: Power Virtual Agents'
-    module: 'Module 7: Build chatbots with Power Virtual Agents'
----
-
 # Practice Lab 7.1 – Power Virtual Agents
 
 ## Scenario
@@ -27,6 +21,8 @@ In this exercise, you will acquire a PVA trial and examine the components in the
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
+   ![Business process flow designer.](../media/pg-23-1.1.png)
+
 1. Make sure you are in the **Development** environment.
 
 1. Select **Solutions**.
@@ -48,6 +44,8 @@ In this exercise, you will acquire a PVA trial and examine the components in the
 ### Task 1.2 – Test the bot
 
 1. In Power Virtual Agents, select **Topics**. You should see three user topics for Air, Soil, and Water along with the system topics.
+
+   ![Business process flow designer.](../media/pg-23-2.1png.png)
 
 1. If the Test bot pane is not showing, click **Test your bot** to show the bot.
 
@@ -93,6 +91,8 @@ In the list of topics, click on the **Water** topic to open the authoring canvas
 
 1. Select **Topics** and then click on the **Greeting** topic to open the authoring canvas.
 
+   ![Business process flow designer.](../media/pg-23-4.1.png)
+
 1. You should see 50+ trigger phrases and three message nodes.
 
 1. Review the trigger phrases for this topic.
@@ -118,6 +118,8 @@ In the list of topics, click on the **Water** topic to open the authoring canvas
 1. The list of project returned by the flow is stored in a variable that is shown in another message node.
 
 1. Click on **View flow details**.
+   
+   ![Business process flow designer.](../media/pg-23-6.1.png)
 
 1. Click **Edit** at the top of the flow and review the actions in the flow.
 
@@ -197,7 +199,7 @@ In this exercise, you make changes to topics and entities.
 
 1. You should have four condition branches.
 
-    ![Condition and branches.](../media/bot-condition.png)
+    ![Condition and branches.](../media/bot-condition.1.png)
 
 1. Under the **Air** condition, click **Add node** and select **Redirect to another topic**.
 
@@ -259,11 +261,17 @@ In this exercise, you make changes to topics and entities.
 
 1. Click **Done**.
 
-    ![Custom entity and synonyms.](../media/bot-entities.png)
+    ![Custom entity and synonyms.](../media/bot-entities.1.png)
 
 1. Click **Save**.
 
 1. Click on **X** to to close the Environment categories phrases pane.
+
+   > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Click the (...) icon located at the upper right corner of the lab guide section and navigate to the Lab Validation Page.
+> - Hit the Validate button for the corresponding task.If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 ### Task 2.4 - Fallback
 
@@ -289,7 +297,7 @@ In this exercise, you make changes to topics and entities.
 
 1. Select **Confirmed Failure**.
 
-    ![Fallback topic.](../media/bot-fallback.png)
+    ![Fallback topic.](../media/bot-fallback.1.png)
 
 1. Click **Save**.
 
@@ -338,6 +346,8 @@ In this exercise you will publish the chatbot.
 ### Task 3.4: Artificial Intelligence
 
 1. Click **AI capabilities**.
+
+   ![Business process flow designer.](../media/pg-23-7.1.png)
 
 1. Check the box for **Topic overlap detection**.
 
