@@ -1,4 +1,4 @@
-# Practice Lab 7.1 – Power Virtual Agents
+# Module 7 : Lab 7.1 – Power Virtual Agents
 
 ## Scenario
 
