@@ -1,4 +1,4 @@
-# Practice Lab 5.1 – Build a Power Pages portal
+# Module 5 : Lab 5.1 – Build a Power Pages portal
 
 ## Scenario
 
