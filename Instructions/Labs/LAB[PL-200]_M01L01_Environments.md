@@ -18,7 +18,7 @@ In this exercise, you will create a *Development* environment that you will do t
 
 ### Task 1.1 – Create development environment
 
-1.  Navigate to the Power Platform admin center `https://aka.ms/ppac` and sign in with your Microsoft 365 credentials if prompted again.
+1.  Navigate to the Power Platform admin center https://aka.ms/ppac  and sign in with your Microsoft 365 credentials if prompted again.
 
 1.  Select **Get Started** or close the Welcome pop-up.
    
