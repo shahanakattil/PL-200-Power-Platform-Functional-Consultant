@@ -14,4 +14,4 @@
 
     ![](../media/image-901.jpg)
 
->**Note:** The deployment ID(DID) changes with every deployment. 
+>**Note:** With every new deployment of instance, we are provided with an unique deployment ID(DID)
