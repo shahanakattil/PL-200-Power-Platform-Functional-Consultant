@@ -1,4 +1,4 @@
-# Practice Lab 3.3 – Dashboards
+# Module 3 : Lab 3.3 – Dashboards
 
 ## Scenario
 
