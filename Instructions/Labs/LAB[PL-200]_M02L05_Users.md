@@ -1,4 +1,4 @@
-# Module 2 Lab 2.5 – Users and Teams
+# Module 2 : Lab 2.5 – Users and Teams
 
 ## Scenario
 
