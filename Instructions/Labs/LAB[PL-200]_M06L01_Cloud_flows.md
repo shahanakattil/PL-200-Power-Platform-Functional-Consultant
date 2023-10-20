@@ -1,4 +1,4 @@
-# Practice Lab 6.1 – Cloud flows
+# Module 6 : Lab 6.1 – Cloud flows
 
 ## Scenario
 

@@ -1,4 +1,4 @@
-# Practice Lab 1.6 – Relationships
+# Module 1 : Lab 1.6 – Relationships
 
 ## Scenario
 

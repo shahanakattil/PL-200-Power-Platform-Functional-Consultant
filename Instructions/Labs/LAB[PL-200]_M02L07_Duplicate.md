@@ -1,4 +1,4 @@
-# Practice Lab 2.7 - Duplicate detection
+# Module 2 : Lab 2.7 - Duplicate detection
 
 ## Scenario
 

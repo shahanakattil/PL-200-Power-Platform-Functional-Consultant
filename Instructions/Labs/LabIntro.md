@@ -14,4 +14,3 @@
 
     ![](../media/image-901.jpg)
 
->**Note:** The deployment ID(DID) changes with every deployment. 

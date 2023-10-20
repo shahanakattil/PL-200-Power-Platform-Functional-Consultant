@@ -1,4 +1,4 @@
-# Practice Lab 1.5 – Columns
+# Module 1 : Lab 1.5 – Columns
 
 ## Scenario
 
@@ -129,7 +129,7 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Select **Save and edit**.
 
-    ![Add calculated column.](../media/lab-5-01-1.png)
+   ![Add calculated column.](../media/lab-5-01-1.png)
 
     > **NOTE:** You may need to disable the pop-up blocker in your browser and edit the Length of Project column.
 
