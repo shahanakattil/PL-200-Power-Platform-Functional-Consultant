@@ -1,4 +1,4 @@
-# Practice Lab 2.4 - Security roles
+# Module 2 : Lab 2.4 - Security roles
 
 ## Scenario
 
