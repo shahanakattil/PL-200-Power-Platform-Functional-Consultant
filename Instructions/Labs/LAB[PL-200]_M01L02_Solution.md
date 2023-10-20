@@ -1,4 +1,4 @@
-# Module 2 : Lab 1.2 - Publisher and Solution
+# Module 1 : Lab 1.2 - Publisher and Solution
 
 ## Scenario
 
