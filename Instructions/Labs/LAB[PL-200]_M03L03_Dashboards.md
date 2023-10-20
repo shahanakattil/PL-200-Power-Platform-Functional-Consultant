@@ -79,7 +79,7 @@ In this exercise, you will create an interactive dashboard for Projects.
 
 1. Select the **Projects by Status and Type** chart and select **Add**.
 
-![New solution.](../media/pg-18-1.png)
+    ![New solution.](../media/pg-18-1.png)
 
 1. In the **Streams** pane, select the stream icon.
 
