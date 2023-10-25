@@ -55,11 +55,7 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 
 ### Task 1.3 – Create a solution
 
-1. Select the **Solutions** tab.
-
-1. Select **+ New solution**.
-
-1. In the **Display name** text box, enter **[my initials] Practice solution** (Example : PL Practice). The Name text box should be automatically populated.
+1. On the **Solutions** page, in the **Display name** text box, enter **[my initials] Practice solution** (Example : PL Practice). The Name text box should be automatically populated.
 
 1. In the **Publisher** drop-down, select **Fabrikam**.
 
