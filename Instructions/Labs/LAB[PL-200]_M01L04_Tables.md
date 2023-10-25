@@ -177,8 +177,6 @@ In later labs you will be adding columns and relationships to this custom table.
 
 1.  In the solution select the **Overview** page.
 
-    ![Overview.](../media/15.png)
-
 1.  Select **Publish all customizations**.
 
 ### Review
