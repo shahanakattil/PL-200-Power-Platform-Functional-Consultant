@@ -23,7 +23,7 @@ In this exercise, you will create a *Development* environment that you will do t
 1.  Select **Get Started** or close the Welcome pop-up.
   ![New environment.](../media/ss1pl-200.png) 
 
-1.  Select **Environments** from the left navigation pane. There should be a single environment, OTU WA MOC 100162(default).
+1.  Select **Environments** from the left navigation pane. There should be a single environment, OTU WA MOC XXXXXX(default).
 
 1.  Select **+ New**.
 
