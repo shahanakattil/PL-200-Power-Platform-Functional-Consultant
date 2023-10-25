@@ -130,7 +130,7 @@ In this exercise, you will import data the into the **Development** environment 
 
 1.  Navigate to **C:\Allfiles\Labs\ConfigurationMigration**.
 
-1.  Double-click on **DataMigrationUtility.exe**
+1.  Double-click on **DataMigrationUtility**
    
 1.  Choose **Import data**. Select **Continue**.
 
