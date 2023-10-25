@@ -67,7 +67,7 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1.  On the **Add Dataverse** tab, select **Save**.
 
-1.  You should now see three environments; OTU WA MOC 100162 (default), Development, and Live.
+1.  You should now see three environments; OTU WA MOC XXXXXX (default), Development, and Live.
 
     ![Environments.](../media/pg-2ss-5-1.png)
 
