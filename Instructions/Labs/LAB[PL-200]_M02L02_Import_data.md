@@ -29,7 +29,7 @@ In this exercise, you will import Outcome rows into your Microsoft Dataverse env
 
 1. Locate and select the **Outcome data.xlsx** file and select **Open**.
 
-    > This file should be located in the Documents\PL-200 folder on your machine.
+    > This file should be located in the C:\Allfiles\Labs\ folder on your virtual machine.
 
 ### Task 1.2 – Create a dataflow
 
