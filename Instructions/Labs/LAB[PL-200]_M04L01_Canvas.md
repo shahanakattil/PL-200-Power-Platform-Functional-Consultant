@@ -280,7 +280,7 @@ In this task, you will perform the following changes to the app:
 
 In this task, you will perform the following changes to a screen:
 
-- add an image as a background
+- Add an image as a background
 
 1. In the **Tree view**, select **ProjectScreen**.
 
@@ -303,7 +303,7 @@ In this task, you will perform the following changes to a screen:
 
 In this task, you will perform the following changes to a label:
 
-- correct the card label on the home screen
+- Correct the card label on the home screen
 
 1. In the **Tree view**, select and expand **HomeScreen**.
 
@@ -317,13 +317,12 @@ In this task, you will perform the following changes to a label:
 
 1. Select **Save**.
 
-
 ### Task 2.5 - Button
 
 In this task, you will perform the following changes to the button:
 
-- change the name of the button
-- set the button as disabled if there are no rows
+- Change the name of the button
+- Set the button as disabled if there are no rows
 
 1. In the **Tree view**, select and expand **OutcomeScreen**.
 
@@ -355,7 +354,7 @@ In this exercise, you will update formulas and logic in the canvas app.
 
 In this task, you will perform the following changes to the screen:
 
-- remove Status Reason and replace with new choice column
+- Remove Status Reason and replace with new choice column
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
@@ -402,8 +401,8 @@ In this task, you will perform the following changes to the screen:
 
 In this task, you will perform the following changes to the screen:
 
-- correct the initialization of the form
-- use the LookUp formula with a Dataverse table
+- Correct the initialization of the form
+- Use the LookUp formula with a Dataverse table
 
 1. Select and expand **OutcomeGallery**.
 
@@ -425,7 +424,7 @@ In this task, you will perform the following changes to the screen:
 
 In this task, you will perform the following changes to the screen:
 
-- correct the initialization of the form
+- Correct the initialization of the form
 
 1. In the **Tree view**, select and expand **MilestoneScreen**.
 
@@ -442,7 +441,7 @@ In this task, you will perform the following changes to the screen:
 
 In this task, you will perform the following changes to the screen:
 
-- display the Project Type for existing records
+- Display the Project Type for existing records
 
 1. In the **Tree view**, select and expand **ProjectScreen**.
 
@@ -472,8 +471,8 @@ In this exercise, you will add a Power Automate flow to the canvas app to reset 
 
 In this task, you will perform the following changes to the screen:
 
-- create an instant flow for use in the canvas app
-- perform a flow action to reset the status of a Milestone
+- Create an instant flow for use in the canvas app
+- Perform a flow action to reset the status of a Milestone
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
@@ -528,8 +527,8 @@ In this task, you will perform the following changes to the screen:
 
 In this task, you will perform the following changes to the screen:
 
-- add the flow to the canvas app
-- run the flow from a button
+- Add the flow to the canvas app
+- Run the flow from a button
 
 1. In the **Objects** pane on the left, select **Apps**.
 
@@ -565,7 +564,7 @@ In this task, you will perform the following changes to the screen:
 
 1. Enter the following formula:
 
-    ```Resetmilestonestatus.Run(MilestoneGallery.Selected.Milestone);Refresh(Milestones);```
+       Resetmilestonestatus.Run(MilestoneGallery.Selected.Milestone);Refresh(Milestones);
 
 1. Drag **ResetBtn** under the form.
 
@@ -595,7 +594,6 @@ In this task, you will perform the following changes to the screen:
 1. Select **Share**.
 
 1. **Close** the tab.
-
 
 ## Exercise 5 – Solutions
 
