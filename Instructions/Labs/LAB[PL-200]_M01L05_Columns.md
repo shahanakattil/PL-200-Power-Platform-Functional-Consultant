@@ -96,21 +96,18 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. In the **Objects** pane on the left, expand **Tables**, and select **Project**.
 
-1. Under **Schema**, select **Keys**.
+2. Under **Schema**, select **Keys**.
 
-1. Select **+ New key**.
+3. Select **+ New key**.
 
-1. Enter `Project Reference` for **Display Name**.
+4. Enter `Project Reference` for **Display Name**.
 
-1. Check the **Project Code** Column.
+5. Check the **Project Code** Column.
 
    ![Add calculated column.](../media/14-1.png)
 
-
-1. Select **Save**.
+6. Select **Save**.
    
-
-
 ### Task 1.4 – Add a calculated column
 
 1. In the **Objects** pane on the left, expand **Tables**, and select **Project**.
@@ -141,7 +138,7 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Select the green check mark to save changes.
 
-    > NOTE: You may need to resize the window to see the check mark.
+    > **NOTE:** You may need to resize the window to see the check mark.
 
 1. Select **+ Add condition**.
 
@@ -155,17 +152,15 @@ In this exercise, you will be changing properties on existing columns on the Pro
 
 1. Enter the following formula:
 
-    ```DIFFINDAYS(contoso_scheduledstartdate,contoso_estimatedenddate)```
+       DIFFINDAYS(contoso_scheduledstartdate,contoso_estimatedenddate)
 
-    > NOTE: You can use intellisense to type and select the elements in the formula.
+    > **NOTE:** You can use intellisense to type and select the elements in the formula.
 
 1. Select the blue check mark to save changes.
    
     ![Add Choice column.](../media/lab-5-02.png)
 
 1. Select **SAVE AND CLOSE**.
-
-
 
 ## Exercise 2 – Modify and add columns on the Project Funding table
 
@@ -384,9 +379,9 @@ In this exercise, you will be creating columns on the Project Outcome custom tab
 
 1. In the solution select the **Overview** page.
 
-    ![Overview.](../media/15-1.png)
-
 1. Select **Publish all customizations**.
+
+    ![Overview.](../media/15-1.png)
 
 ### Review
 In this lab, you modified and added columns on the project and project funding table, modified a lookup coloumn on the milestone table, added a choice coloumn and created coloumns on the project outcome table.
