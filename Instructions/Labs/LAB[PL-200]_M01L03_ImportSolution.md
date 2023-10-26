@@ -1,4 +1,4 @@
-# Practice Lab 1.3 - Import solution
+# Module 1 : Lab 1.3 - Import solution
 
 ## Scenario
 
@@ -117,7 +117,6 @@ In this exercise, you will import the main solution into the **Development** env
      ![](../media/ex1(11).png)
 
 1.  Select **Import**. The solution will import in the background.
-
 
 ## Exercise 2 - Import data
 

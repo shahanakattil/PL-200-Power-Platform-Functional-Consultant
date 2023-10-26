@@ -1,10 +1,4 @@
----
-lab:
-    title: 'Lab 6.1: Cloud flows'
-    module: 'Module 6: Build automation with Power Automate'
----
-
-# Practice Lab 6.1 – Cloud flows
+# Module 6 : Lab 6.1 – Cloud flows
 
 ## Scenario
 
@@ -77,11 +71,14 @@ In this task, you will perform the following changes to the flow:
 
 1. Click in the **Choose a value** field.
 
-1. In **Dynamic content**, select the **Expression** tab.
+1. In **Dynamic content**, select the **Expression (1)** tab.
 
-1. Enter **length()** and position the cursor between the brackets.
+1. Enter **length() (2)** and position the cursor between the brackets.
+    ![Condition.](../media/demo2.png)
 
-1. Select the **Dynamic content** tab, select **See more** for **Get Outcome**, and select the **Approver Email** and click **OK**.
+1. Select the **Dynamic content** tab, select **See more** for **Get Outcome**, and select the **Approver Email (3)** and click **OK**.
+
+   ![Condition.](../media/demo1.png)
 
 1. The expression should be as follows:
 
@@ -93,7 +90,7 @@ In this task, you will perform the following changes to the flow:
 
 1. In the condition step, note the **And** drop-down is set to **And**.
 
-    ![Condition.](../media/flow-condition.png)
+    ![Condition.](../media/flow-condition.1.png)
 
 1. Drag the **Start and wait for an approval** step into the **If yes** branch of the condition.
 
@@ -111,7 +108,7 @@ In this task, you will perform the following changes to the flow:
 
 1. Click **Save**.
 
-    ![Flow after changes in this task.](../media/flow-check-approver.png)
+    ![Flow after changes in this task.](../media/flow-check-approver.1.png)
 
 ### Task 1.3 – Error handling
 
@@ -143,7 +140,7 @@ In this task, you will perform the following changes to the flow:
 
 1. Click **Save**
 
-    ![Error handing and parallel branch.](../media/flow-error-handling.png)
+    ![Error handing and parallel branch.](../media/flow-error-handling.1.png)
 
 ### Task 1.4 – Set status to rejected
 
@@ -176,7 +173,9 @@ In **Dynamic content**, search for outcome and select **Outcome** under the **Ge
 1. Click **Save**
 
 1. Click the back arrow icon in the top-left of the flow editor.
-**Note:** If you receive an error message stating **This isn't the latest content**, select **Overwrite other people's changes** then click **Apply** to move forward. 
+**Note:** If you receive an error message stating **This isn't the latest content**, select **Overwrite other people's changes** then click **Apply** to move forward.
+
+![Condition.](../media/demo3.png)
 
 ## Exercise 2 – Edit environment variable
 
@@ -293,7 +292,7 @@ In this task, you will perform the following:
 
 1. Expand **Show advanced options**.
 
-1. Click into **Select columns** and enter **contoso_projectstatus**. The flow will only trigger when the project status value is changed.
+1. Click into **Select columns** and enter **projectstatus**. The flow will only trigger when the project status value is changed.
 
 1. Click on **+ New step**.
 
@@ -331,7 +330,7 @@ In this task, you will perform the following:
 
 1. Click into **Filter rows** and enter the following OData filter expression:
 
-    ```(contoso_projectstatus eq 330650003 and contoso_actualenddate eq null)```
+    ```(projectstatus eq 330650003 and actualenddate eq null)```
 
 1. Click **Save**.
 

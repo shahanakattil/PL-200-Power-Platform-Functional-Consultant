@@ -1,10 +1,4 @@
----
-lab:
-    title: 'Lab 3.3: Dashboards'
-    module: 'Module 3: Create model-driven apps in Power Apps'
----
-
-# Practice Lab 3.3 – Dashboards
+# Module 3 : Lab 3.3 – Dashboards
 
 ## Scenario
 
@@ -85,7 +79,11 @@ In this exercise, you will create an interactive dashboard for Projects.
 
 1. Select the **Projects by Status and Type** chart and select **Add**.
 
+    ![New solution.](../media/pg-18-1.png)
+
 1. In the **Streams** pane, select the stream icon.
+
+    ![New solution.](../media/pg-18-1-1.png)
 
 1. Select the **My Active Projects** view and select **OK**.
 
@@ -126,11 +124,15 @@ In this exercise, you will be enabling the feature that uses Power BI to create 
 
 1. Select the **Environmental Project Delivery** app, click on the ellipses (...), and select **Edit** > **Edit in new tab**.
 
+   ![New solution.](../media/pg-18-2-1.png)
+
 1. In the action bar, select **Settings**.
 
 1. Select **Features**.
 
 1. Toggle **Enable Power BI quick report visualization on a table** to **Yes**.
+
+   ![New solution.](../media/pg-18-3-1.png)
 
 1. Select **Save**.
 
@@ -177,6 +179,8 @@ In this exercise, you will export the solution from the Development environment 
 1. Select **Export solution**.
 
 1. Select **Next**.
+
+   ![New solution.](../media/26-1.1.png)
 
 1. The version number should have been incremented to **1.1.11.9**.
 

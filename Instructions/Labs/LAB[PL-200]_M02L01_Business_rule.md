@@ -1,4 +1,4 @@
-# Practice Lab 2.1 – Business rules
+# Module 2 : Lab 2.1 – Business rules
 
 ## Scenario
 
@@ -188,7 +188,6 @@ In this lab, you will perform:
 - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
 - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
 
 ### Task 1.2 – Create Milestone business rules
 

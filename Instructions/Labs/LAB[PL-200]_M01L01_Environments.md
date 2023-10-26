@@ -1,4 +1,4 @@
-# Practice Lab 1.1 - Create environments
+# Module 1 : Lab 1.1 - Create environments
 
 ## Scenario
 
@@ -18,7 +18,7 @@ In this exercise, you will create a *Development* environment that you will do t
 
 ### Task 1.1 – Create development environment
 
-1.  Navigate to the Power Platform admin center `https://aka.ms/ppac` and sign in with your Microsoft 365 credentials if prompted again.
+1.  Navigate to the Power Platform admin center https://aka.ms/ppac  and sign in with your Microsoft 365 credentials if prompted again.
 
 1.  Select **Get Started** or close the Welcome pop-up.
    
@@ -50,7 +50,13 @@ In this exercise, you will create a *Development* environment that you will do t
 
      ![Environment in the Power Platform admin center.](../media/pg-2ss-4.png)
 
-1.  Explore the different areas in **Settings** that you may be interested in but do not make any changes yet. 
+1.  Explore the different areas in **Settings** that you may be interested in but do not make any changes yet.
+   
+   > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Click the (...) icon located at the upper right corner of the lab guide section and navigate to the Lab Validation Page.
+> - Hit the Validate button for the corresponding task.If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 
 ### Task 1.2 – Create live environment
@@ -69,9 +75,9 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1.  You should now see three environments; OTU WA MOC XXXXXX (default), Development, and Live.
 
-  ![Environments.](../media/pg-2ss-5-1.png)
+    ![Environments.](../media/pg-2ss-5-1.png)
 
-    > **Note:** You will use the *Development* environment for all customizations in the labs. The *Live* environment will act as your test/production environment.
+> **Note:** You will use the *Development* environment for all customizations in the labs. The *Live* environment will act as your test/production environment.
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
  
@@ -80,5 +86,8 @@ In this exercise, you will create a *Development* environment that you will do t
 - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
   
+
 ### Review
 In this lab, you created a development environment and a live environment.
+
+

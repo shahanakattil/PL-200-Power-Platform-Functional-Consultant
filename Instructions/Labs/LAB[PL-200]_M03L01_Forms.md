@@ -1,4 +1,4 @@
-# Practice Lab 3.1 – Forms
+# Module 3 : Lab 3.1 – Forms
 
 ## Scenario
 
@@ -53,6 +53,8 @@ In this task, you will perform the following changes to the form:
 1. Under **Data experiences**, select **Forms**.
 
 1. Select the **Information** form where the **Form type** is **Main**, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
+
+   ![Edit filters pane.](../media/pldemo1.png)
 
 1. Select the **Project Description** field.
 
@@ -347,6 +349,7 @@ In this task, you will enable the Project Resource table for quick create.
 1. In the **Edit table** pane on the right side of the screen, expand **Advanced options** and scroll down.
 
 1. Check the **Leverage quick-create form if available** box.
+   ![Edit filters pane.](../media/pldemo2.png)
 
 1. Select **Save**.
 
@@ -614,7 +617,8 @@ In this task, you will perform the following changes to the form:
 
 1. On the **Save and publish** drop-down menu, select **Save only**.
 
-1. Sekect **Form Settings**.
+1. Select **Form Settings**.
+   ![Edit filters pane.](../media/pldemo3.png)
 
 1. Select the **Environmental manager** and **Environmental administrator** roles as the specific security roles that should have access to this form.
 
