@@ -152,7 +152,7 @@ In this exercise, you will import data the into the **Development** environment 
 
 1.  Select the ellipses (...) and locate and select **Fabrikam Environment data.zip** file.
 
-    > **Note:** This file is located in the Documents\PL-200 folder on your machine.
+    > **Note:** This file is located in the C\AllFiles\Labs folder on your machine.
 
 1.  Select **Open**. The data file will be validated.
 
