@@ -86,7 +86,7 @@ In this exercise you will run the business process flow to generate an approval.
 
 1. This starts the **Request approval** cloud flow you enhanced in an earlier lab.
 
-    > NOTE: The first time an approval is created in an environment, the approvals solution is automatically installed. This installation can take up to 10 minutes.
+    > **NOTE:** The first time an approval is created in an environment, the approvals solution is automatically installed. This installation can take up to 10 minutes.
 
 ### Task 1.2 - Approve the request
 
@@ -180,7 +180,7 @@ In this exercise, you will add branching on the approval to the business process
 
 1. Click **Apply**.
 
-    > IMPORTANT: The designer does not auto-save. You must click on Apply when editing each element in the process.
+    > **IMPORTANT:** The designer does not auto-save. You must click on Apply when editing each element in the process.
 
 1. Click on **+ Add** and select **Add Stage** and then click the white plus icon underneath the **Check Approval** condition tile.
 
