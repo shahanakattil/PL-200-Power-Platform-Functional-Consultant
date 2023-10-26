@@ -26,7 +26,7 @@ In this exercise, you will make changes to the views for the Project table.
 
 In this task, you will perform the following changes to the form:
 
-- add columns to views
+- Add columns to views
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com` .
 
@@ -55,9 +55,9 @@ In this task, you will perform the following changes to the form:
 
 In this task, you will perform the following changes to the form:
 
-- create a new view
-- set filter
-- remove column
+- Create a new view
+- Set filter
+- Remove column
 
 1. Select **Save As**.
 
@@ -88,7 +88,7 @@ In this exercise, you will make changes to the views for the Project Funding tab
 
 In this task, you will perform the following changes to the form:
 
-- add columns to views
+- Add columns to views
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
@@ -114,7 +114,6 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ## Exercise 3 – Outcome views
 
 In this exercise, you will make changes to the views for the Outcome table.
@@ -123,8 +122,8 @@ In this exercise, you will make changes to the views for the Outcome table.
 
 In this task, you will perform the following changes to the form:
 
-- add the Milestone status to public view
-- remove the status reason column
+- Add the Milestone status to public view
+- Remove the status reason column
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
@@ -152,12 +151,11 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ### Task 3.2 – Modify the Outcome lookup view
 
 In this task, you will perform the following changes to the form:
 
-- change the columns in the lookup view for Outcomes
+- Change the columns in the lookup view for Outcomes
 
 1. Select the **Outcome Lookup View** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
@@ -173,12 +171,11 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ### Task 3.3 – Modify the Outcome Quick Find view
 
 In this task, you will perform the following changes to the form:
 
-- change the find columns in the quick find view
+- Change the find columns in the quick find view
 
 1. Select the **Quick Find Active Outcomes** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
@@ -205,7 +202,6 @@ In this task, you will perform the following changes to the form:
 1. **Close** the view designer.
 
 1. Select **Done**.
-
 
 ## Exercise 4 – Milestone views
 
@@ -246,14 +242,13 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ### Task 4.2 – Modify the My Pending Milestones public view
 
 In this task, you will perform the following changes to the form:
 
-- add the Milestone Status to the public view
-- remove the Status Reason column
-- edit the filter
+- Add the Milestone Status to the public view
+- Remove the Status Reason column
+- Edit the filter
 
 1. Select the **My Pending Milestones** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
@@ -284,9 +279,9 @@ In this task, you will perform the following changes to the form:
 
 In this task, you will perform the following changes to the form:
 
-- add the Milestone Description to the view
-- add the Milestone Status to the view
-- remove the Status Reason column
+- Add the Milestone Description to the view
+- Add the Milestone Status to the view
+- Remove the Status Reason column
 
 1. Select the **Milestones SubGrid** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
@@ -349,13 +344,11 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ### Task 5.2 – Publish changes
 
 1. In the  **Objects** pane on the left, select **All**.
 
 1. Select **Publish all customizations**.
-
 
 ## Exercise 6 – Editable grid
 
@@ -405,7 +398,6 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ## Exercise 7 – Modify model-driven apps
 
 In this exercise, you will be restricting views in model-driven apps.
@@ -414,9 +406,9 @@ In this exercise, you will be restricting views in model-driven apps.
 
 In this task, you will perform the following changes to the app:
 
-- restrict Project views
-- restrict Milestone views
-- restrict Outcome views
+- Restrict Project views
+- Restrict Milestone views
+- Restrict Outcome views
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
@@ -474,7 +466,6 @@ In this task, you will perform the following changes to the app:
 
 1. Select **Done**.
 
-
 ## Exercise 8 – Enable Dataverse Search
 
 In this exercise, you will enable Dataverse search for your environment.
@@ -498,7 +489,6 @@ The find columns on the quick find views define the searchable fields in the Dat
 1. Toggle **Dataverse search** to **On**.
 
 1. Select **Save** at the bottom.
-
 
 ### Task 8.2 – Search index
 
