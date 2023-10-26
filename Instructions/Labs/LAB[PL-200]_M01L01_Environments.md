@@ -22,9 +22,9 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1.  Select **Get Started** or close the Welcome pop-up.
    
-    ![New environment.](../media/ss1pl-200.png) 
+     ![New environment.](../media/ss1pl-200.png) 
 
-1.  Select **Environments** from the left navigation pane. There should be a single environment, OTU WA MOC 100162(default).
+1.  Select **Environments** from the left navigation pane. There should be a single environment, OTU WA MOC XXXXXX(default).
 
 1.  Select **+ New**.
 
@@ -36,20 +36,19 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1.  Leave all other selections as default and select **Next**.
 
-    ![New environment.](../media/pg-1ss-2-1.png)
+     ![New environment.](../media/pg-1ss-2-1.png)
 
 1.  On the **Add Dataverse** tab, select **Save**.
 
-   
     ![New environment.](../media/ss7.png)
 
 1.  Your **Development** environment should now show in the list of environments.
 
-    ![Environment in the Power Platform admin center.](../media/pg-2ss-3.png)
+      ![Environment in the Power Platform admin center.](../media/pg-2ss-3.png)
 
-1.  Your Development environment may take a few minutes to provision. Select **Refresh** if needed. When your environment **State** shows as **Ready**, select your **Development** environment by clicking on the ellipses (...) next to its name to expand the drop down menu and select **Settings**.
+1. Your Development environment may take a few minutes to provision. Select **Refresh** if needed. When your environment **State** shows as **Ready**, select your **Development** environment by clicking on the ellipses (...) next to its name to expand the drop down menu and select **Settings**.
 
-    ![Environment in the Power Platform admin center.](../media/pg-2ss-4.png)
+     ![Environment in the Power Platform admin center.](../media/pg-2ss-4.png)
 
 1.  Explore the different areas in **Settings** that you may be interested in but do not make any changes yet.
    
@@ -74,12 +73,19 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1.  On the **Add Dataverse** tab, select **Save**.
 
-1.  You should now see three environments; OTU WA MOC 100162 (default), Development, and Live.
+1.  You should now see three environments; OTU WA MOC XXXXXX (default), Development, and Live.
 
-     ![Environments.](../media/pg-2ss-5-1.png)
+    ![Environments.](../media/pg-2ss-5-1.png)
 
-    > **Note:** You will use the *Development* environment for all customizations in the labs. The *Live* environment will act as your test/production environment.
+> **Note:** You will use the *Development* environment for all customizations in the labs. The *Live* environment will act as your test/production environment.
 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+ 
+- Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
+- Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+  
 
 ### Review
 In this lab, you created a development environment and a live environment.

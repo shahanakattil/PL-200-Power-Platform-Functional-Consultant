@@ -129,7 +129,7 @@ In this exercise, you will import data the into the **Development** environment 
 
 1.  Navigate to **C:\Allfiles\Labs\ConfigurationMigration**.
 
-1.  Double-click on **DataMigrationUtility.exe**
+1.  Double-click on **DataMigrationUtility**
    
 1.  Choose **Import data**. Select **Continue**.
 
@@ -151,7 +151,7 @@ In this exercise, you will import data the into the **Development** environment 
 
 1.  Select the ellipses (...) and locate and select **Fabrikam Environment data.zip** file.
 
-    > **Note:** This file is located in the Documents\PL-200 folder on your machine.
+    > **Note:** This file is located in the C\AllFiles\Labs folder on your machine.
 
 1.  Select **Open**. The data file will be validated.
 
@@ -193,6 +193,13 @@ In this exercise, you will provision a Power Pages site. This can take a while, 
 1.  Select **Done**.
 
     > The portal site will deploy. It can take around an hour for your site to fully deploy.
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+ 
+- Navigate to the Lab Validation Page, from the upper right corner in the lab guide section.
+- Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 ### Review
 In this lab, you imported Fabrikam solutions, imported data and signed up for power pages.
