@@ -47,45 +47,45 @@ In this exercise, you will acquire a PVA trial and examine the components in the
 
    ![Business process flow designer.](../media/pg-23-2.1png.png)
 
-1. If the Test bot pane is not showing, click **Test your bot** to show the bot.
+2. If the Test bot pane is not showing, click **Test your bot** to show the bot.
 
-1. Type **Hi** and click **Send**.
+3. Type **Hi** and click **Send**.
 
-1. The bot should show the greeting message.
+4. The bot should show the greeting message.
 
-1. Type **How can I be a sustainable farmer?** and click **Send**.
+5. Type **How can I be a sustainable farmer?** and click **Send**.
 
-1. Select **Soil**.
+6. Select **Soil**.
 
-1. Select **Soil management practices**.
+7. Select **Soil management practices**.
 
-1. Select **Yes**.
+8. Select **Yes**.
 
-1. Click on a rating.
+9. Click on a rating.
 
-1. Select **Yes**.
+10. Select **Yes**.
 
-In the list of topics, click on the **Water** topic to open the authoring canvas.
+>**Note:** In the list of topics, click on the **Water** topic to open the authoring canvas.
 
-1. In the Text bot pane, type **What are ways of conserving water?** and click **Send**. You should see the authoring canvas show the question node.
+11. In the Text bot pane, type **What are ways of conserving water?** and click **Send**. You should see the authoring canvas show the question node.
 
-1. Type **At home** and click **Send**. You should see the authoring canvas show the message node.
+12. Type **At home** and click **Send**. You should see the authoring canvas show the message node.
 
-1. Click on a rating.
+13. Click on a rating.
 
-1. Select **Yes**.
+14. Select **Yes**.
 
-1. Select **Topics** and then click on the **Air** topic to open the authoring canvas.
+15. Select **Topics** and then click on the **Air** topic to open the authoring canvas.
 
-1. In the Text bot pane, type **How can I reduce air pollution?** and click **Send**.
+16. In the Text bot pane, type **How can I reduce air pollution?** and click **Send**.
 
-1. You should see a list of projects in the Test bot pane and in the authoring canvas you should see the Action node that calls a Power Automate flow that retrieves the list of projects from Dataverse.
+17. You should see a list of projects in the Test bot pane and in the authoring canvas you should see the Action node that calls a Power Automate flow that retrieves the list of projects from Dataverse.
 
-1. Select **No**.
+18. Select **No**.
 
-1. Select **Reprhase**.
+19. Select **Reprhase**.
 
-1. **Click on Hide bot**.
+20. **Click on Hide bot**.
 
 ### Task 1.3 – Review topics
 
@@ -157,11 +157,11 @@ In this exercise, you make changes to topics and entities.
 
 1. Select the first **Message** and replace the message with the text below.
 
-    ```Hi! I'm a virtual agent. I can help you with environmental sustainability options.```
+       Hi! I'm a virtual agent. I can help you with environmental sustainability options.
 
 1. Select the second **Message** and replace the message with the text below.
 
-    ```If you would like to speak to a human at any time, just let me know.```
+       If you would like to speak to a human at any time, just let me know.
 
 1. Click on the ellipses (...) on the the last message and select  **Delete**.
 
@@ -288,7 +288,7 @@ In this exercise, you make changes to topics and entities.
 
 1. Select the first **Message** node and replace the message with the text below.
 
-    ```I'm sorry I didn't understand```
+       I'm sorry I didn't understand
 
 1. Click on caret in the message, select variables **{x}** and select **UnrecognizedTriggerPhrase**.
 
