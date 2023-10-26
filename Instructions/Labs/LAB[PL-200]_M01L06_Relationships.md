@@ -49,7 +49,6 @@ In this exercise, you will be modifying the cascade relationships for the projec
 
     ![Referential Restrict relationship.](../media/pg-6-1-1.png)
 
-
 ### Task 1.2 – Project-Milestone relationship
 
 1. In the **Project** table **Relationships**, select **Project** from the table. Note that this relationship uses **Project** as the Display name and **contoso_project_milestone** as the Name. 
@@ -69,7 +68,6 @@ In this exercise, you will be modifying the cascade relationships for the projec
 1. Select **Done**.
 
     ![Cascade relationship.](../media/pg-6-2-2-2.png)
-
 
 ## Exercise 2 – Add new relationship
 
@@ -121,7 +119,6 @@ In this exercise, you will create a new relationship between the Resource and Pr
 
 1. Select **Save**.
 
-
 ## Exercise 3 – Hierarchical relationship
 
 In this exercise, you will create a new hierarchical relationship on the region table.
@@ -162,7 +159,6 @@ In this exercise, you will create a new hierarchical relationship on the region 
 
     ![Hierarchical relationship.](../media/pg-6-4-4.png)
 
-
 ## Exercise 4 – Project Outcome relationships
 
 In this exercise, you will create two many-to-one relationships for the Project Outcome table to the Project and Outcome tables. These relationships will be used to replace the many-to-many relationship between the Project and Outcome tables.
@@ -201,7 +197,6 @@ In this exercise, you will create two many-to-one relationships for the Project 
 
 1. Select **Done**.
 
-
 ### Task 4.2 – Create new relationship to Outcome
 
 1. Select **+ New relationship** and then select **Many-to-one**.
@@ -230,7 +225,6 @@ In this exercise, you will create two many-to-one relationships for the Project 
 
 1. Select **Done**.
 
-
 ### Task 4.3 – Set required and enable auditing on new lookup columns
 
 1. In the **Objects** pane on the left, select **Columns** for the **Project Outcome** table.
@@ -254,7 +248,6 @@ In this exercise, you will create two many-to-one relationships for the Project 
 1. Check the **Enable auditing** box.
 
 1. Select **Save**.
-
 
 ## Exercise 5 – Connections
 
@@ -282,7 +275,6 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. Select **Save**.
 
-
 ### Task 5.2 – Enable connections on Milestone
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
@@ -305,15 +297,13 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. Select **Save**.
 
-
 ### Task 5.3 – Publish changes
 
 1. In the solution, select the **Overview** page.
-
-    ![Overview.](../media/15-1.png)
-
+ 
 1. Select **Publish all customizations**.
-
+ 
+    ![Overview.](../media/15-1.png)
 
 ### Task 5.4 – Add connection roles
 
@@ -361,14 +351,13 @@ In this exercise, you will enable connections for the resource and milestone tab
 
 1. Add **Contributed to** to the **selected records** by selecting the row using the **Select** button.
 
-   ![Add connection role.](../media/20-1.png)
-
 1. Select **Add**.
+
+   ![Add connection role.](../media/20-1.png)
 
 1. Select the **Save and Close** icon.
 
 1. Select **Done**.
-
 
 ## Exercise 6 – Calculated and rollup columns
 
@@ -426,7 +415,6 @@ In this exercise, you will use relationships to create calculated and rollup fie
 
 1. Select **SAVE AND CLOSE**.
 
-
 ### Task 6.2 – Rollup column for the project one-to-many relationship
 
 1. In the **Objects** pane on the left, expand **Tables**.
@@ -481,7 +469,6 @@ In this exercise, you will use relationships to create calculated and rollup fie
 
 1. Select **Publish all customizations**.
 
-
 ## Exercise 7 – Solutions
 
 In this exercise, you will export the solution from the Development environment and import it into the Live environment.
@@ -506,7 +493,6 @@ In this exercise, you will export the solution from the Development environment 
 
 1. Select the **back arrow** to return to solutions.
 
-
 ### Task 7.2 – Export managed solution
 
 1. Select the **Fabrikam Environmental** solution row but do not open it.
@@ -522,7 +508,6 @@ In this exercise, you will export the solution from the Development environment 
 1. Select **Export**.
 
 1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
-
 
 ### Task 7.3 – Export unmanaged solution
 
@@ -577,7 +562,6 @@ In this exercise, you will export the solution from the Development environment 
 1. Both connections should be selected.
 
 1. Select **Import**. The solution will import in the background.
-
 
 ## Challenge (Optional)
 
