@@ -34,9 +34,9 @@ In this exercise, you will make changes to the forms for the Project table.
 
 In this task, you will perform the following changes to the form:
 
-- change the label for project description
-- increase the size of project description field
-- add columns to the form
+- Change the label for project description
+- Increase the size of project description field
+- Add columns to the form
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
@@ -81,9 +81,9 @@ In this task, you will perform the following changes to the form:
 
 In this task, you will perform the following changes to the form:
 
-- change tab properties
-- insert the Timeline control
-- restrict the activities available on the Timeline
+- Change tab properties
+- Insert the Timeline control
+- Restrict the activities available on the Timeline
 
 1. Select **Tree view** on the left-hand side of the form designer.
 
@@ -124,7 +124,7 @@ In this task, you will perform the following changes to the form:
 
 In this task, you will perform the following changes to the form:
 
-- replace the sub-grid for the many-to-many relationship between Project and Outcome with a sub-grid for the Project Outcome table
+- Replace the sub-grid for the many-to-many relationship between Project and Outcome with a sub-grid for the Project Outcome table
 
 1. Select the **Outcomes** tab.
 
@@ -138,12 +138,11 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**. 
 
-
 ### Task 1.4 – Modify the Project quick view form
 
 In this task, you will perform the following changes to the form:
 
-- add a sub-grid of Outcomes to the quick view form
+- Add a sub-grid of Outcomes to the quick view form
 
 1. Select the **Information** form where the **Form type** is **Quick View**, select the **Commands** menu  (...), and select **Edit** > **Edit in new tab**.
 
@@ -194,7 +193,7 @@ In this exercise, you will add filtering on a lookup field on the Program table 
 
 In this task, you will perform the following changes to the form:
 
-- add a filter to the Contact lookup to only show Contacts that belong to the selected Account
+- Add a filter to the Contact lookup to only show Contacts that belong to the selected Account
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
@@ -228,7 +227,6 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ## Exercise 3 – Edit Program Funding form
 
 In this exercise, you will add new columns to the Project Funding table form.
@@ -237,7 +235,7 @@ In this exercise, you will add new columns to the Project Funding table form.
 
 In this task, you will perform the following changes to the form:
 
-- add columns to the form
+- Add columns to the form
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
@@ -267,7 +265,6 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ## Exercise 4 – Edit Region form
 
 In this exercise, you will add the hierarchical relationship to the Region table form.
@@ -276,8 +273,8 @@ In this exercise, you will add the hierarchical relationship to the Region table
 
 In this task, you will perform the following changes to the form:
 
-- add parent region lookup
-- add a sub-grid for child regions
+- Add parent region lookup
+- Add a sub-grid for child regions
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
@@ -323,7 +320,6 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**. 
 
-
 ## Exercise 5 – Project Resource Quick Create form
 
 In this exercise, you will create a Quick Create form for the Project Resource table form.
@@ -353,7 +349,6 @@ In this task, you will enable the Project Resource table for quick create.
 
 1. Select **Save**.
 
-
 ### Task 5.2 – Create Quick Create form
 
 In this task, you will create a quick create form.
@@ -382,7 +377,6 @@ In this task, you will create a quick create form.
 
 1. Select **🡠 Back**.
 
-
 ## Exercise 6 – Edit Milestone form
 
 In this exercise, you will add the status choice column to to the Milestone table form.
@@ -391,8 +385,8 @@ In this exercise, you will add the status choice column to to the Milestone tabl
 
 In this task, you will perform the following changes to the form:
 
-- add Milestone status to the form
-- remove Status reason from the form
+- Add Milestone status to the form
+- Remove Status reason from the form
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
@@ -420,7 +414,6 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ## Exercise 7 – Edit Outcome form
 
 In this exercise, you will add the status choice column to to the Outcome table form.
@@ -429,9 +422,9 @@ In this exercise, you will add the status choice column to to the Outcome table 
 
 In this task, you will perform the following changes to the Outcome form:
 
-- add Outcome status to the form
-- remove Status reason from the form
-- delete the Project tab
+- Add Outcome status to the form
+- Remove Status reason from the form
+- Delete the Project tab
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
@@ -461,7 +454,6 @@ In this task, you will perform the following changes to the Outcome form:
 
 1. Select **Done**.
 
-
 ## Exercise 8 – Edit Project Outcome form
 
 In this exercise, you will configure the default form for the Project Outcome table.
@@ -470,9 +462,9 @@ In this exercise, you will configure the default form for the Project Outcome ta
 
 In this task, you will perform the following changes to the Project Outcome form:
 
-- change for layout
-- add columns to the form
-- hide the name on the form
+- Change for layout
+- Add columns to the form
+- Hide the name on the form
 - Add a quick view form
 
 1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
@@ -540,7 +532,6 @@ In this task, you will perform the following changes to the Project Outcome form
 1. **Close** the form designer.
 
 1. Select **Done**.
-
 
 ## Exercise 9 – Copy Outcome form
 
@@ -646,13 +637,11 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Save and publish**.
 
-
 ### Task 9.2 – Publish changes
 
 1. In the **Objects** pane on the left, select **All**.
 
 1. Select **Publish all customizations**.
-
 
 ## Exercise 10 – Modify model-driven apps
 
@@ -716,7 +705,6 @@ In this task, you will perform the following changes to the app:
 1. Navigate around and interact with the **Environmental Management** app before closing the app and app designer windows.
 
 1. Select **Done**.
-
 
 ### Task 10.2 – Environmental Project Delivery app
 
