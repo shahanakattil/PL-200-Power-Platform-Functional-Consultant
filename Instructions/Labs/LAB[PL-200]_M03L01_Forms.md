@@ -184,7 +184,6 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Done**.
 
-
 ## Exercise 2 – Edit Program form
 
 In this exercise, you will add filtering on a lookup field on the Program table form.
@@ -345,6 +344,7 @@ In this task, you will enable the Project Resource table for quick create.
 1. In the **Edit table** pane on the right side of the screen, expand **Advanced options** and scroll down.
 
 1. Check the **Leverage quick-create form if available** box.
+  
    ![Edit filters pane.](../media/pldemo2.png)
 
 1. Select **Save**.
@@ -609,6 +609,7 @@ In this task, you will perform the following changes to the form:
 1. On the **Save and publish** drop-down menu, select **Save only**.
 
 1. Select **Form Settings**.
+   
    ![Edit filters pane.](../media/pldemo3.png)
 
 1. Select the **Environmental manager** and **Environmental administrator** roles as the specific security roles that should have access to this form.
