@@ -74,7 +74,8 @@ In this task, you will perform the following changes to the flow:
 1. In **Dynamic content**, select the **Expression (1)** tab.
 
 1. Enter **length() (2)** and position the cursor between the brackets.
-    ![Condition.](../media/demo2.png)
+    
+   ![Condition.](../media/demo2.png)
 
 1. Select the **Dynamic content** tab, select **See more** for **Get Outcome**, and select the **Approver Email (3)** and click **OK**.
 
@@ -259,8 +260,8 @@ In this exercise, you will create a new cloud flow that is triggered when the pr
 
 In this task, you will perform the following:
 
-- create a new flow that is triggered by project status change
-- add an action to set the actual end date
+- Create a new flow that is triggered by project status change
+- Add an action to set the actual end date
 
 1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
 
@@ -322,7 +323,7 @@ In this task, you will perform the following:
 
 In this task, you will perform the following:
 
-- restrict the flow trigger to only fire when the project status is completed and the actual end date has not been entered
+- Restrict the flow trigger to only fire when the project status is completed and the actual end date has not been entered
 
 1. Select the trigger step (Project Status changed).
 
@@ -330,7 +331,7 @@ In this task, you will perform the following:
 
 1. Click into **Filter rows** and enter the following OData filter expression:
 
-    ```(projectstatus eq 330650003 and actualenddate eq null)```
+     (projectstatus eq 330650003 and actualenddate eq null)
 
 1. Click **Save**.
 
