@@ -34,7 +34,8 @@ In this exercise, you will access the Power Apps maker portal, the Development e
 ### Task 1.2 – Create a publisher
 
 1. Select **Solutions** from the left navigation pane. Click on **New Solution**
-    ![List of solutions in Maker portal.](../media/ss-2.png)
+  
+   ![List of solutions in Maker portal.](../media/ss-2.png)
 
 1. Select the **Publishers** tab.
 
