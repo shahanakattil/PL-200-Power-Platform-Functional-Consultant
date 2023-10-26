@@ -225,10 +225,8 @@ In this lab, you will perform:
 
 1. The **Condition Expression (Text View)** should read as follows:
 
-    ```
-    (Milestone Percentage Complete Equals [100]) AND (Milestone status Does not equal [Completed,Cancelled])
-    ```
-
+    > **(Milestone Percentage Complete Equals [100]) AND (Milestone status Does not equal [Completed,Cancelled])**
+ 
 1. Select **+ Add** and select **Add Set Field Value** and then select the plus icon to the right of the **Condition** tile.
 
 1. Enter `Mark Complete` for **Display Name**. In the **Field Value** section, select **Milestone status** for **Field**, select **Value** for **Type**, and select **Completed** for **Value**.
@@ -262,4 +260,4 @@ In this lab, you will perform:
 Edit the **Set Resource Name** business rule on the **Resource** table to hide both lookup columns if resource type is not selected and set as not business required.
 
 ### Review
-In this lab, you created resource and milestone business rules
+In this lab, you created resource and milestone business rules.
