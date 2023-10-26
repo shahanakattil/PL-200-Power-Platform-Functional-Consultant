@@ -109,8 +109,7 @@ In this exercise, you will import the main solution into the **Development** env
 
 1.  Select **Browse**, locate the **FabrikamChatbot_1_1_1_1.zip** file and select **Open**.
 
-    >[!NOTE]
-    > This file is located in the C:\Allfiles\Labs folder on your machine.
+    > **Note:** This file is located in the C:\Allfiles\Labs folder on your machine.
 
 1.  Select **Next**.
 
