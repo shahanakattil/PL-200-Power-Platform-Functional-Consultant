@@ -50,4 +50,5 @@ In this exercise, you will enable auditing for your environment. In earlier labs
     ![](../media/mod-02;lab-08(4).png)
 
 ### Review
-In this lab, you enabled auditing.
+In this lab, you activated auditing to monitor and record data modifications within Microsoft Dataverse.
+
